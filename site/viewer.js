@@ -6,6 +6,7 @@ const KEY_STEP = 0.05;
 
 const params = new URLSearchParams(location.search);
 const client = Object.hasOwn(CLIENTS, params.get("client")) ? params.get("client") : "eden";
+document.getElementById("map-back").href = `./?client=${client}`;
 const other = client === "eden" ? "blackthorn" : "eden";
 const zoneId = params.get("zone") || "";
 
@@ -482,7 +483,6 @@ function startViewer(zone, otherZone, labelData, downloads) {
   } else {
     actions.append(el("a", { class: "link", href: `./?client=${client}#downloads`, text: "All downloads" }));
   }
-  actions.append(backLink());
   panelParts.push(actions);
   panelParts.push(el("p", { class: "credit" }, el("span", { text: "Map display by " }), el("a", { class: "link", href: "vendor/leaflet/LICENSE", text: "Leaflet (BSD-2)" })));
   bodyEl.replaceChildren(...panelParts);
