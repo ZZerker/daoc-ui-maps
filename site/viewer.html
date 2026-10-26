@@ -18,9 +18,9 @@
       <svg class="mark" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5v9a4 4 0 0 0 8 0V5M17 5v14" fill="none" stroke="currentColor" stroke-width="2.4"/></svg>
       <span class="wordmark">DAoC UI maps</span>
     </a>
-    <nav class="bar-nav" aria-label="Client">
-      <a href="./?client=eden" data-client="eden">Eden</a>
-      <a href="./?client=blackthorn" data-client="blackthorn">Blackthorn</a>
+    <nav class="bar-nav" aria-label="Main">
+      <a href="./" data-nav="maps" aria-current="page">Maps</a>
+      <a href="./#downloads" data-nav="downloads">Downloads</a>
       <a class="bar-github" href="https://github.com/ZZerker/daoc-ui-maps">GitHub</a>
     </nav>
   </div>
@@ -31,6 +31,7 @@
     <div class="map" id="map" role="region" aria-label="Map"></div>
   </div>
   <aside class="panel" id="panel" aria-label="Zone details">
+    <div id="client-switch"></div>
     <h1 id="zone-name">Loading the map</h1>
     <p class="zone-line" id="zone-line"></p>
     <div id="panel-body"></div>

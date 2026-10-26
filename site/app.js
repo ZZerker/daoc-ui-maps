@@ -335,13 +335,14 @@ function renderMaps() {
   refs.grid = el("div", { class: "grid" });
   refs.select = buildSelect();
   refs.search = buildSearch();
-  const download = el("a", { class: "pill", href: "#downloads", text: "Download UI packs" });
-  const titleRow = el("div", { class: "title-row" }, el("div", {}, el("h1", { text: "Zone maps" }), refs.sub), download);
+  const titleRow = el("div", { class: "title-row" }, el("div", {}, el("h1", { text: "Zone maps" }), clientSwitch(), refs.sub));
+  const downloadBlock = el("section", { class: "dl-block" });
   const find = el("div", { class: "find" }, el("label", { for: "find", text: "Find a zone" }), refs.search);
   const filters = el("div", { class: "filters" }, buildCards(), refs.select, find);
   const head = el("div", { class: "maps-head" }, el("h2", { text: "Maps" }), refs.count);
-  main.replaceChildren(titleRow, filters, head, refs.grid);
+  main.replaceChildren(titleRow, downloadBlock, filters, head, refs.grid);
   update();
+  fillDownloadBlock(downloadBlock);
 }
 
 function update() {
@@ -363,6 +364,67 @@ async function retry() {
   update();
 }
 
+// ---------- client switch and download block ----------
+
+function clientSwitch() {
+  const buttons = Object.entries(CLIENTS).map(([key, label]) =>
+    el("button", { class: "segment", type: "button", "data-client": key, "aria-pressed": String(key === state.client), text: label, onclick: () => switchClient(key) }),
+  );
+  return el("div", { class: "segmented", role: "group", "aria-label": "Game client" }, ...buttons);
+}
+
+function pickPrimary(sorted) {
+  const dds = sorted.filter((f) => f.format === "dds");
+  return dds.find((f) => f.size === 512 && f.labels) || dds.find((f) => f.size === 512) || dds[0] || null;
+}
+
+// the labeled / no labels suffix only where both variants exist
+function packName(file, files) {
+  const base = `${file.format.toUpperCase()} ${file.size} px`;
+  const both = files.some((f) => f !== file && f.format === file.format && f.size === file.size);
+  return both ? `${base}, ${file.labels ? "labeled" : "no labels"}` : base;
+}
+
+function packActions(data, files) {
+  const sorted = sortFiles(files);
+  const primary = pickPrimary(sorted);
+  const nodes = [];
+  if (primary) {
+    const pill = el("a", { class: "pill", href: fileUrl(data, primary), text: `UI pack ${primary.size} px`, "aria-label": `UI pack ${packName(primary, sorted)}` });
+    nodes.push(el("span", { class: "dl-main" }, pill, el("span", { class: "dl-size", text: megabytes(primary.bytes) })));
+  }
+  for (const file of sorted) {
+    if (file !== primary && (file.format === "dds" || (file.format === "png" && file.size === 2048))) {
+      nodes.push(el("a", { class: "pill-outline", href: fileUrl(data, file), text: packName(file, sorted) }));
+    }
+  }
+  if (nodes.length) {
+    nodes.push(el("a", { class: "link", href: `?${queryString()}#downloads`, text: "All downloads", onclick: onShowDownloads }));
+  }
+  return nodes;
+}
+
+async function fillDownloadBlock(box) {
+  const client = state.client;
+  const actions = el("div", { class: "dl-actions" }, el("span", { class: "dl-skeleton" }));
+  box.replaceChildren(el("h2", { text: "Download" }), actions);
+  const result = await loadDownloads(client);
+  if (state.client !== client || state.view !== "maps" || !box.isConnected) {
+    return;
+  }
+  if (result.error) {
+    actions.replaceChildren(el("p", { class: "dl-note", text: "Couldn't load the packs." }), el("button", { class: "link", type: "button", text: "Retry", onclick: () => fillDownloadBlock(box) }));
+    return;
+  }
+  const files = validFiles(result.data);
+  const nodes = files.length ? packActions(result.data, files) : [];
+  if (!nodes.length) {
+    actions.replaceChildren(el("p", { class: "dl-note", text: `Packs for ${clientName()} are not released yet.` }));
+    return;
+  }
+  actions.replaceChildren(...nodes);
+}
+
 // ---------- downloads view ----------
 
 function packLabel(file) {
@@ -378,8 +440,12 @@ function megabytes(bytes) {
   return mb >= 1024 ? `${(mb / 1024).toFixed(2)} GB` : `${mb.toFixed(1)} MB`;
 }
 
+function fileUrl(data, file) {
+  return `https://github.com/${data.repo}/releases/download/${data.tag}/${file.name}`;
+}
+
 function downloadRow(data, file) {
-  const url = `https://github.com/${data.repo}/releases/download/${data.tag}/${file.name}`;
+  const url = fileUrl(data, file);
   return el(
     "tr",
     {},
@@ -405,9 +471,9 @@ async function renderDownloads() {
   refs = {};
   const client = state.client;
   const back = el("a", { class: "back", href: `?${queryString()}`, text: "Back to maps", onclick: onShowMaps });
-  const intro = el("p", { class: "sub", text: "UI packs hold the zone, level and region maps as DXT1 DDS for the TokaZerk UI; unzip into your UI's Maps folder." });
+  const intro = el("p", { class: "sub", text: "UI packs hold the zone, level and region maps as DXT1 DDS, the format the DAoC client loads for custom UI maps. Unzip into the Maps folder of your UI." });
   const body = el("div");
-  main.replaceChildren(back, el("div", { class: "title-row" }, el("div", {}, el("h1", { text: "Downloads" }), intro)), body);
+  main.replaceChildren(back, el("div", { class: "title-row" }, el("div", {}, el("h1", { text: "Downloads" }), clientSwitch(), intro)), body);
   writeUrl();
   const result = await loadDownloads(client);
   if (state.view !== "downloads" || state.client !== client) {
@@ -435,11 +501,11 @@ async function renderDownloads() {
 
 // ---------- shell ----------
 
-function markClient() {
-  for (const link of document.querySelectorAll("[data-client]")) {
-    const active = link.dataset.client === state.client;
-    link.href = `?client=${link.dataset.client}${state.view === "downloads" ? "#downloads" : ""}`;
-    if (active) {
+function markNav() {
+  for (const link of document.querySelectorAll("[data-nav]")) {
+    const view = link.dataset.nav;
+    link.href = `?${queryString()}${view === "downloads" ? "#downloads" : ""}`;
+    if (view === state.view) {
       link.setAttribute("aria-current", "page");
     } else {
       link.removeAttribute("aria-current");
@@ -454,7 +520,7 @@ function focusHeading() {
 }
 
 async function render(moveFocus = false) {
-  markClient();
+  markNav();
   document.title = state.view === "downloads" ? "Downloads, DAoC UI maps" : "DAoC UI maps";
   if (state.view === "downloads") {
     renderDownloads();
@@ -484,7 +550,18 @@ async function switchClient(client) {
   writeStorage(client);
   zones = null;
   loadFailed = false;
-  await render();
+  const request = render();
+  main.querySelector(`[data-client="${client}"]`)?.focus();
+  await request;
+}
+
+function onShowDownloads(event) {
+  event.preventDefault();
+  const changed = state.view !== "downloads";
+  state.view = "downloads";
+  writeUrl();
+  render(changed);
+  window.scrollTo(0, 0);
 }
 
 function onShowMaps(event) {
@@ -507,12 +584,8 @@ function onHashChange() {
 }
 
 function wireShell() {
-  for (const link of document.querySelectorAll("[data-client]")) {
-    link.addEventListener("click", (event) => {
-      event.preventDefault();
-      switchClient(link.dataset.client);
-    });
-  }
+  document.querySelector('[data-nav="maps"]').addEventListener("click", onShowMaps);
+  document.querySelector('[data-nav="downloads"]').addEventListener("click", onShowDownloads);
   document.getElementById("brand").addEventListener("click", onShowMaps);
   const bar = document.getElementById("bar");
   const markScroll = () => bar.classList.toggle("scrolled", window.scrollY > 0);

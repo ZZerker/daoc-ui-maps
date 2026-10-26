@@ -82,17 +82,28 @@ function writeUrl() {
   }
 }
 
+function clientSwitch(zoneInOther) {
+  const buttons = Object.entries(CLIENTS).map(([key, label]) => {
+    const node = el("button", { class: "segment", type: "button", "aria-pressed": String(key === client), text: label });
+    if (key !== client) {
+      const target = zoneInOther ? `viewer.html?client=${key}&zone=${encodeURIComponent(zoneId)}` : `./?client=${key}`;
+      node.addEventListener("click", () => location.assign(target));
+      if (!zoneInOther) {
+        const note = `${label} has no map for this zone. Opens the ${label} map list.`;
+        node.title = note;
+        node.setAttribute("aria-description", note);
+      }
+    }
+    return node;
+  });
+  return el("div", { class: "segmented", role: "group", "aria-label": "Game client" }, ...buttons);
+}
+
 function setBar(zoneInOther) {
   document.getElementById("brand").href = `./?client=${client}`;
-  for (const link of document.querySelectorAll("[data-client]")) {
-    const target = link.dataset.client;
-    if (target === client) {
-      link.href = `viewer.html?client=${client}&zone=${encodeURIComponent(zoneId)}`;
-      link.setAttribute("aria-current", "page");
-    } else {
-      link.href = zoneInOther ? `viewer.html?client=${target}&zone=${encodeURIComponent(zoneId)}` : `./?client=${target}`;
-    }
-  }
+  document.querySelector('[data-nav="maps"]').href = `./?client=${client}`;
+  document.querySelector('[data-nav="downloads"]').href = `./?client=${client}#downloads`;
+  document.getElementById("client-switch").replaceChildren(clientSwitch(zoneInOther));
 }
 
 function showMessage(text, retry) {
