@@ -79,13 +79,22 @@ a.link { text-decoration: underline; text-underline-offset: 3px; }
 #client-switch .segmented { margin-top: 0; }
 
 /* ---------- download block ---------- */
-.dl-block { margin-bottom: 24px; }
-.dl-block h2 { margin-bottom: 12px; }
-.dl-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; min-height: 36px; }
-.dl-main { display: inline-flex; align-items: center; gap: 12px; }
-.dl-size { color: var(--faint); }
+.dl-block { margin-bottom: 32px; }
+.dl-head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 4px 16px; margin-bottom: 12px; }
+.dl-head .release { margin-top: 0; }
 .dl-note { color: var(--muted); }
-.dl-skeleton { width: 200px; height: 36px; border-radius: 999px; background: var(--surface); }
+.dl-skeleton { display: block; height: 216px; border-radius: var(--radius-card); background: var(--surface); }
+.packs { display: grid; grid-template-columns: 3fr 2fr; gap: var(--gap); }
+.release + .packs { margin-top: 16px; }
+.pack { min-width: 0; padding: 20px 24px 8px; border-radius: var(--radius-card); background: var(--surface); }
+.pack h3 { margin: 0; font-size: 16px; line-height: 24px; font-weight: 600; }
+.pack-text { margin-top: 4px; color: var(--muted); max-width: 60ch; }
+.pack .table-wrap { margin-top: 12px; max-width: none; }
+.pack th, .pack td { border-bottom-color: var(--raised); }
+.pack tbody tr:last-child > * { border-bottom: 0; }
+.pack tbody th { font-size: 14px; color: var(--text); }
+.pack td { height: 56px; }
+.pack .pill, .pack .pill-outline { min-width: 104px; justify-content: center; }
 .pill-outline { display: inline-flex; align-items: center; height: 36px; padding: 0 16px; border: 1px solid #444444; border-radius: 999px; background: transparent; color: var(--text); font-weight: 500; white-space: nowrap; transition: opacity var(--t-hover) ease; }
 .pill-outline:hover { opacity: 0.8; text-decoration: none; }
 
@@ -160,11 +169,15 @@ th.n, td.n { text-align: right; }
   .cards { flex-basis: 100%; }
   .find { margin-left: auto; }
   .grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .packs { grid-template-columns: 1fr; }
 }
 @media (max-width: 640px) {
   :root { --margin: 16px; }
   .bar-github { display: none; }
   .segmented { width: 100%; }
+  .pack { padding: 16px 12px 4px; }
+  .pack th, .pack td { padding: 0 4px; }
+  .pack .pill, .pack .pill-outline { min-width: 0; padding: 0 10px; }
   .bar-nav { gap: 16px; }
   .title-row { flex-wrap: wrap; }
   .cards { flex: 1 1 100%; overflow-x: auto; scroll-snap-type: x proximity; scrollbar-width: none; }

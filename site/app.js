@@ -373,63 +373,75 @@ function clientSwitch() {
   return el("div", { class: "segmented", role: "group", "aria-label": "Game client" }, ...buttons);
 }
 
+const FORMATS = [
+  { key: "dds", title: "DDS for the DAoC UI", text: "Zone, level and region maps as DXT1 DDS, the format the DAoC client loads for custom UI maps. Unzip into the Maps folder of your UI. 512 px suits most UIs." },
+  { key: "png", title: "PNG images", text: "One full color PNG per zone, for wikis, printing or editing." },
+];
+
 function pickPrimary(sorted) {
   const dds = sorted.filter((f) => f.format === "dds");
   return dds.find((f) => f.size === 512 && f.labels) || dds.find((f) => f.size === 512) || dds[0] || null;
 }
 
-// the labeled / no labels suffix only where both variants exist
-function packName(file, files) {
-  const base = `${file.format.toUpperCase()} ${file.size} px`;
-  const both = files.some((f) => f !== file && f.format === file.format && f.size === file.size);
-  return both ? `${base}, ${file.labels ? "labeled" : "no labels"}` : base;
+function packCell(data, file, primary) {
+  if (!file) {
+    return el("td", { class: "n" }, el("span", { class: "meta", text: "-" }));
+  }
+  const name = `${file.format.toUpperCase()} ${file.size} px, ${file.labels ? "labeled" : "no labels"}, ${megabytes(file.bytes)}`;
+  const link = el("a", { class: file === primary ? "pill" : "pill-outline", href: fileUrl(data, file), text: megabytes(file.bytes), "aria-label": `Download ${name}` });
+  return el("td", { class: "n" }, link);
 }
 
-function packActions(data, files) {
+// rows are the label variants, columns the sizes, so every pack of a format is one click away
+function packPanel(data, files, format, primary) {
+  const rows = files.filter((f) => f.format === format.key);
+  if (!rows.length) {
+    return null;
+  }
+  const sizes = [...new Set(rows.map((f) => f.size))].sort((a, b) => a - b);
+  const variants = [true, false].filter((labels) => rows.some((f) => f.labels === labels));
+  const head = el("tr", {}, el("th", { scope: "col", text: "Labels" }), ...sizes.map((size) => el("th", { class: "n", scope: "col", text: `${size} px` })));
+  const body = variants.map((labels) =>
+    el(
+      "tr",
+      {},
+      el("th", { scope: "row", text: labels ? "Labeled" : "No labels" }),
+      ...sizes.map((size) => packCell(data, rows.find((f) => f.size === size && f.labels === labels), primary)),
+    ),
+  );
+  const table = el("table", {}, el("thead", {}, head), el("tbody", {}, ...body));
+  return el("section", { class: "pack" }, el("h3", { text: format.title }), el("p", { class: "pack-text", text: format.text }), el("div", { class: "table-wrap" }, table));
+}
+
+function packPanels(data, files) {
   const sorted = sortFiles(files);
   const primary = pickPrimary(sorted);
-  const nodes = [];
-  if (primary) {
-    const pill = el("a", { class: "pill", href: fileUrl(data, primary), text: `UI pack ${primary.size} px`, "aria-label": `UI pack ${packName(primary, sorted)}` });
-    nodes.push(el("span", { class: "dl-main" }, pill, el("span", { class: "dl-size", text: megabytes(primary.bytes) })));
-  }
-  for (const file of sorted) {
-    if (file !== primary && (file.format === "dds" || (file.format === "png" && file.size === 2048))) {
-      nodes.push(el("a", { class: "pill-outline", href: fileUrl(data, file), text: packName(file, sorted) }));
-    }
-  }
-  if (nodes.length) {
-    nodes.push(el("a", { class: "link", href: `?${queryString()}#downloads`, text: "All downloads", onclick: onShowDownloads }));
-  }
-  return nodes;
+  return el("div", { class: "packs" }, ...FORMATS.map((format) => packPanel(data, sorted, format, primary)).filter(Boolean));
 }
 
 async function fillDownloadBlock(box) {
   const client = state.client;
-  const actions = el("div", { class: "dl-actions" }, el("span", { class: "dl-skeleton" }));
-  box.replaceChildren(el("h2", { text: "Download" }), actions);
+  const head = el("div", { class: "dl-head" }, el("h2", { text: "Download" }));
+  const content = el("div", {}, el("span", { class: "dl-skeleton" }));
+  box.replaceChildren(head, content);
   const result = await loadDownloads(client);
   if (state.client !== client || state.view !== "maps" || !box.isConnected) {
     return;
   }
   if (result.error) {
-    actions.replaceChildren(el("p", { class: "dl-note", text: "Couldn't load the packs." }), el("button", { class: "link", type: "button", text: "Retry", onclick: () => fillDownloadBlock(box) }));
+    content.replaceChildren(el("div", { class: "notice" }, el("p", { text: "Couldn't load the packs." }), el("button", { class: "link", type: "button", text: "Retry", onclick: () => fillDownloadBlock(box) })));
     return;
   }
   const files = validFiles(result.data);
-  const nodes = files.length ? packActions(result.data, files) : [];
-  if (!nodes.length) {
-    actions.replaceChildren(el("p", { class: "dl-note", text: `Packs for ${clientName()} are not released yet.` }));
+  if (!files.length) {
+    content.replaceChildren(el("p", { class: "dl-note", text: `Packs for ${clientName()} are not released yet.` }));
     return;
   }
-  actions.replaceChildren(...nodes);
+  head.append(releaseLine(result.data));
+  content.replaceChildren(packPanels(result.data, files));
 }
 
 // ---------- downloads view ----------
-
-function packLabel(file) {
-  return `${file.format.toUpperCase()} ${file.size}, ${file.labels ? "labeled" : "no labels"}`;
-}
 
 function sortFiles(files) {
   return [...files].sort((a, b) => a.format.localeCompare(b.format) || a.size - b.size || Number(b.labels) - Number(a.labels));
@@ -444,24 +456,6 @@ function fileUrl(data, file) {
   return `https://github.com/${data.repo}/releases/download/${data.tag}/${file.name}`;
 }
 
-function downloadRow(data, file) {
-  const url = fileUrl(data, file);
-  return el(
-    "tr",
-    {},
-    el("td", { text: packLabel(file) }),
-    el("td", { class: "n", text: String(file.size) }),
-    el("td", { class: "n", text: megabytes(file.bytes) }),
-    el("td", {}, el("a", { class: "link", href: url, text: "Download", "aria-label": `Download ${packLabel(file)}` })),
-  );
-}
-
-function downloadTable(data) {
-  const head = el("tr", {}, el("th", { text: "Pack" }), el("th", { class: "n", text: "Size" }), el("th", { class: "n", text: "File size" }), el("th", { "aria-label": "Action" }));
-  const body = el("tbody", {}, ...sortFiles(data.files).map((file) => downloadRow(data, file)));
-  return el("div", { class: "table-wrap" }, el("table", {}, el("thead", {}, head), body));
-}
-
 function releaseLine(data) {
   const link = el("a", { class: "link", href: `https://github.com/${data.repo}/releases/tag/${data.tag}`, text: `Release ${data.tag}, ${data.released}` });
   return el("p", { class: "release" }, link);
@@ -471,9 +465,8 @@ async function renderDownloads() {
   refs = {};
   const client = state.client;
   const back = el("a", { class: "back", href: `?${queryString()}`, text: "Back to maps", onclick: onShowMaps });
-  const intro = el("p", { class: "sub", text: "UI packs hold the zone, level and region maps as DXT1 DDS, the format the DAoC client loads for custom UI maps. Unzip into the Maps folder of your UI." });
   const body = el("div");
-  main.replaceChildren(back, el("div", { class: "title-row" }, el("div", {}, el("h1", { text: "Downloads" }), clientSwitch(), intro)), body);
+  main.replaceChildren(back, el("div", { class: "title-row" }, el("div", {}, el("h1", { text: "Downloads" }), clientSwitch())), body);
   writeUrl();
   const result = await loadDownloads(client);
   if (state.view !== "downloads" || state.client !== client) {
@@ -496,7 +489,7 @@ async function renderDownloads() {
     return;
   }
   const data = { ...result.data, files };
-  body.append(releaseLine(data), downloadTable(data));
+  body.append(releaseLine(data), packPanels(data, files));
 }
 
 // ---------- shell ----------
