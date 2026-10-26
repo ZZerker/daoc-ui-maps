@@ -374,7 +374,8 @@ function sortFiles(files) {
 }
 
 function megabytes(bytes) {
-  return `${(bytes / 1024 / 1024).toFixed(1)} MB`;
+  const mb = bytes / 1024 / 1024;
+  return mb >= 1024 ? `${(mb / 1024).toFixed(2)} GB` : `${mb.toFixed(1)} MB`;
 }
 
 function downloadRow(data, file) {
