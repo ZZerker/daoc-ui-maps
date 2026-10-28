@@ -1,0 +1,14 @@
+{
+  "zone": "080",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Medusa",
+      "x": 0.969479272562973,
+      "y": 0.24868406189992093,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

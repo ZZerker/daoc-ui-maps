@@ -1,0 +1,41 @@
+{
+  "zone": "241",
+  "labels": [
+    {
+      "kind": "keep",
+      "text": "Molvik Faste",
+      "x": 0.5094757080078125,
+      "y": 0.4190521240234375,
+      "priority": 1,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Molvik Albion Tower",
+      "x": 0.342193603515625,
+      "y": 0.38507080078125,
+      "priority": 2,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Molvik Midgard Tower",
+      "x": 0.46295166015625,
+      "y": 0.617279052734375,
+      "priority": 2,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Molvik Hibernian Tower",
+      "x": 0.630218505859375,
+      "y": 0.3137359619140625,
+      "priority": 2,
+      "realm": 3,
+      "edge": null
+    }
+  ]
+}

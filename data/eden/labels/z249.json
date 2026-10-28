@@ -1,0 +1,149 @@
+{
+  "zone": "249",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Archivist Borath",
+      "x": 0.6899617634864329,
+      "y": 0.9628921546045055,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Behemoth",
+      "x": 0.8512000737089418,
+      "y": 0.935251301423504,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Director Kobil",
+      "x": 0.3052932233841618,
+      "y": 0.6196848942737366,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Field Marshal Nebir",
+      "x": 0.7429400654166859,
+      "y": 0.8016538443819966,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Gatekeeper Dommel",
+      "x": 0.7245128299626848,
+      "y": 0.5298521214354817,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "High Lord Baelerdoth",
+      "x": 0.9433362509789469,
+      "y": 0.5298521214354817,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "High Lord Baln",
+      "x": 0.6231630349656793,
+      "y": 0.6956972405214907,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "High Lord Oro",
+      "x": 0.8488966692771917,
+      "y": 0.36861381121297276,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "High Lord Saeor",
+      "x": 0.9617634864329478,
+      "y": 0.6726631962039895,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Lecherous Gress",
+      "x": 0.24079789929515824,
+      "y": 0.5229419081402312,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Legion",
+      "x": 0.8465932648454416,
+      "y": 0.9836227944902566,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Malroch the Cook",
+      "x": 0.6991753812134335,
+      "y": 0.23501635417146544,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Prince Abdin",
+      "x": 0.4020362095176671,
+      "y": 0.2073755009904639,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Prince Asmoien",
+      "x": 0.3859123784954162,
+      "y": 0.5321555258672318,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Prince Ba\u0027alorien",
+      "x": 0.6531072925784309,
+      "y": 0.16821762565071174,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Princess Nahemah",
+      "x": 0.23158428156815775,
+      "y": 0.36400700234947253,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

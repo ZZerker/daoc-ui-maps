@@ -1,0 +1,23 @@
+{
+  "zone": "012",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Black Mtns. North",
+      "x": 0.375,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Pennine Mountains",
+      "x": 1,
+      "y": 0.875,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    }
+  ]
+}

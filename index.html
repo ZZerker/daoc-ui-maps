@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DAoC UI maps</title>
+<meta name="description" content="Rendered Dark Age of Camelot zone maps for the Eden and Blackthorn clients. Find a zone, open its map or download UI-ready map packs.">
+<meta name="color-scheme" content="dark">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23000'/%3E%3Cpath d='M7 8v10a4 4 0 0 0 8 0V8M20 8v16' fill='none' stroke='%23fff' stroke-width='3'/%3E%3C/svg%3E">
+<link rel="preload" href="fonts/TokaFontRegular.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="bar" id="bar">
+  <div class="column bar-inner">
+    <a class="brand" href="./" id="brand">
+      <svg class="mark" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5v9a4 4 0 0 0 8 0V5M17 5v14" fill="none" stroke="currentColor" stroke-width="2.4"/></svg>
+      <span class="wordmark">DAoC UI maps</span>
+    </a>
+    <nav class="bar-nav" aria-label="Main">
+      <a href="./" data-nav="maps">Maps</a>
+      <a href="./#downloads" data-nav="downloads">Downloads</a>
+      <a class="bar-github" href="https://github.com/ZZerker/daoc-ui-maps">GitHub</a>
+    </nav>
+  </div>
+</header>
+
+<main class="column" id="main"></main>
+
+<footer class="column foot">
+  <div class="foot-brand">
+    <svg class="mark" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5v9a4 4 0 0 0 8 0V5M17 5v14" fill="none" stroke="currentColor" stroke-width="2.4"/></svg>
+    <span class="wordmark">DAoC UI maps</span>
+  </div>
+  <p class="meta">Maps rendered with DAoC MapCreator from the game client files. Not affiliated with Broadsword or Electronic Arts.</p>
+  <p class="foot-links">
+    <a href="https://github.com/ZZerker/daoc-ui-maps">GitHub</a>
+    <a href="https://github.com/ZZerker/DAoC-MapCreator">MapCreator</a>
+  </p>
+</footer>
+
+<noscript><p class="column meta">This page needs JavaScript to list the zones.</p></noscript>
+<script type="module" src="app.js"></script>
+</body>
+</html>

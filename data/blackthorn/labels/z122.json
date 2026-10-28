@@ -1,0 +1,32 @@
+{
+  "zone": "122",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Arothi",
+      "x": 0,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Carlingford",
+      "x": 0.5,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Stavgaard",
+      "x": 1,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    }
+  ]
+}

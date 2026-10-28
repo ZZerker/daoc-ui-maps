@@ -1,0 +1,122 @@
+{
+  "zone": "177",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Snowdonia",
+      "x": 0.5,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Forest Sauvage",
+      "x": 1,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Hadrian\u0027s Wall",
+      "x": 0.5,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "keep",
+      "text": "Caer Boldiam",
+      "x": 0.7584075927734375,
+      "y": 0.298370361328125,
+      "priority": 1,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "keep",
+      "text": "Caer Sursbrooke",
+      "x": 0.37347412109375,
+      "y": 0.66680908203125,
+      "priority": 1,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Caer Sursbrooke WT",
+      "x": 0.5154571533203125,
+      "y": 0.406219482421875,
+      "priority": 2,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Caer Boldiam GT",
+      "x": 0.78253173828125,
+      "y": 0.3668212890625,
+      "priority": 2,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Caer Sursbrooke GT",
+      "x": 0.3131256103515625,
+      "y": 0.637908935546875,
+      "priority": 2,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Caer Renaris WT",
+      "x": 0.8148651123046875,
+      "y": 0.784698486328125,
+      "priority": 2,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Caer Sursbrooke OP",
+      "x": 0.1055908203125,
+      "y": 0.7021026611328125,
+      "priority": 2,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Caer Boldiam SP",
+      "x": 0.8048858642578125,
+      "y": 0.0467071533203125,
+      "priority": 2,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "place",
+      "text": "Brough Ruins",
+      "x": 0.457763671875,
+      "y": 0.0762939453125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Passage of Conflict",
+      "x": 0.9313812255859375,
+      "y": 0.443756103515625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

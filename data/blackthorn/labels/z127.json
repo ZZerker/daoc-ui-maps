@@ -1,0 +1,50 @@
+{
+  "zone": "127",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Faz",
+      "x": 0.856338028169014,
+      "y": 0.5152414486921529,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "King Hresvelgr",
+      "x": 0.006237424547283702,
+      "y": 0.2687625754527163,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Lord Grym",
+      "x": 0.7959758551307847,
+      "y": 0.8170523138832998,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Manstrale",
+      "x": 0.5897384305835011,
+      "y": 0.6611167002012073,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Ridder",
+      "x": 0.6953722334004024,
+      "y": 0.39451710261569417,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

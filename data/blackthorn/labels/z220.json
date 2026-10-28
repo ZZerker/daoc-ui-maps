@@ -1,0 +1,68 @@
+{
+  "zone": "220",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Allyn",
+      "x": 0.2468905935800998,
+      "y": 0.6679079466746108,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Atur",
+      "x": 0.5894838757726968,
+      "y": 0.005064422432412304,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Duga",
+      "x": 0.8054665971549863,
+      "y": 0.16891338348104565,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Lobigan",
+      "x": 0.47032099501005437,
+      "y": 0.20615178371937143,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Overman Regnal",
+      "x": 0.15751843300811796,
+      "y": 0.22849482386236689,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Overseer of the Silver Hand",
+      "x": 0.4777686750577195,
+      "y": 0.29552394429135326,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Underviewer Treeal",
+      "x": 0.6788560363446786,
+      "y": 0.5189543457213078,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

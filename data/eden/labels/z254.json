@@ -1,0 +1,41 @@
+{
+  "zone": "254",
+  "labels": [
+    {
+      "kind": "keep",
+      "text": "Leirvik Castle",
+      "x": 0.4904632568359375,
+      "y": 0.5113983154296875,
+      "priority": 1,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Midgard Leirvik Tower",
+      "x": 0.31304931640625,
+      "y": 0.488067626953125,
+      "priority": 2,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Albion Leirvik Tower",
+      "x": 0.6128082275390625,
+      "y": 0.3475341796875,
+      "priority": 2,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Hibernia Leirvik Tower",
+      "x": 0.512451171875,
+      "y": 0.6911773681640625,
+      "priority": 2,
+      "realm": 3,
+      "edge": null
+    }
+  ]
+}

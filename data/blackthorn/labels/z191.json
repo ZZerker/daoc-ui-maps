@@ -1,0 +1,14 @@
+{
+  "zone": "191",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Olcasgean",
+      "x": 0.5455997248292467,
+      "y": 0.8912338460026534,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

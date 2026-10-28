@@ -1,0 +1,41 @@
+{
+  "zone": "001",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Camelot Hills",
+      "x": 0.5,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Campacorentin Forest",
+      "x": 0,
+      "y": 0.75,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "keep",
+      "text": "Dun Braemar",
+      "x": 0.0537872314453125,
+      "y": 0.1414794921875,
+      "priority": 1,
+      "realm": 3,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Stonehenge Barrows",
+      "x": 0.5622100830078125,
+      "y": 0.55499267578125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

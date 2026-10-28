@@ -1,0 +1,14 @@
+{
+  "zone": "234",
+  "labels": [
+    {
+      "kind": "keep",
+      "text": "Fort Brolorn",
+      "x": 0.5,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 3,
+      "edge": null
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "zone": "062",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Xanxicar",
+      "x": 0.5352226720647774,
+      "y": 0.2865047233468286,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "zone": "155",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Aegir\u0027s Landing",
+      "x": 0.125,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Faraheim",
+      "x": 1,
+      "y": 0.125,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "town",
+      "text": "Knarr",
+      "x": 0.13427734375,
+      "y": 0.87127685546875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

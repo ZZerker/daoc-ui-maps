@@ -1,0 +1,68 @@
+{
+  "zone": "019",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Albino Grugner",
+      "x": 0.5260753111706318,
+      "y": 0.4503702536631479,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "High Priestess Ywera",
+      "x": 0.7624074365842131,
+      "y": 0.27706002835985505,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "King\u0027s Wight",
+      "x": 0.3921537734362691,
+      "y": 0.1116275405703482,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Lifeblighter",
+      "x": 0.7072632739877107,
+      "y": 0.4976366787458642,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Shade of Ambrosius Aurelianus",
+      "x": 0.11643296045375769,
+      "y": 0.7969907042697337,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Shade of Uther Pendragon",
+      "x": 0.11643296045375769,
+      "y": 0.7733574917283756,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Wizard Lichas",
+      "x": 0.28186544824326454,
+      "y": 0.6473136915077989,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

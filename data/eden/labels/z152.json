@@ -1,0 +1,41 @@
+{
+  "zone": "152",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Aegir\u0027s Landing",
+      "x": 0.25,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Delling Crater",
+      "x": 1,
+      "y": 0.625,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "entrance",
+      "text": "Trollheim",
+      "x": 0.389923095703125,
+      "y": 0.48089599609375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Bjarkan",
+      "x": 0.15869140625,
+      "y": 0.86669921875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

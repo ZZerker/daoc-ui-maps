@@ -1,0 +1,77 @@
+{
+  "zone": "233",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Aidon the Archwizard",
+      "x": 0.2104603559194586,
+      "y": 0.49749352493942683,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Ard Tiarna Kieren",
+      "x": 0.6908680758626452,
+      "y": 0.3220402706993065,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Grand Summoner Govannon",
+      "x": 0.3775586932910018,
+      "y": 0.3679923134764809,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Mera",
+      "x": 0.4903500710167934,
+      "y": 0.6687693207452586,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Nychta",
+      "x": 0.38173615172529035,
+      "y": 0.14658701645918623,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Summoner Cunovinda",
+      "x": 0.6407385746511822,
+      "y": 0.4891386080708497,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Summoner Lossren",
+      "x": 0.6407385746511822,
+      "y": 0.00873088812766313,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Summoner Roesia",
+      "x": 0.6407385746511822,
+      "y": 0.9444815774083047,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

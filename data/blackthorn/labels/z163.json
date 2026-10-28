@@ -1,0 +1,77 @@
+{
+  "zone": "163",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Irish Sea",
+      "x": 0.5,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Odin\u0027s Gate",
+      "x": 0.75,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "dock",
+      "text": "West Ellan Dock",
+      "x": 0.06109619140625,
+      "y": 0.3760223388671875,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "place",
+      "text": "Tower of Graoch",
+      "x": 0.083770751953125,
+      "y": 0.7136688232421875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "place",
+      "text": "Tower of Deifrang",
+      "x": 0.47039794921875,
+      "y": 0.2427978515625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "place",
+      "text": "Knoc Meayll",
+      "x": 0.506256103515625,
+      "y": 0.4846343994140625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "place",
+      "text": "Tower of Korazh",
+      "x": 0.9132843017578125,
+      "y": 0.7105865478515625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "dock",
+      "text": "East Ellan Dock",
+      "x": 0.9418182373046875,
+      "y": 0.425994873046875,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

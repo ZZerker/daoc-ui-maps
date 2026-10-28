@@ -1,0 +1,68 @@
+{
+  "zone": "160",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Fornfrusenen",
+      "x": 0.7526211764705882,
+      "y": 0.3926776470588235,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Fornfrusenen Shard",
+      "x": 0.7582682352941177,
+      "y": 0.3907952941176471,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Hurika",
+      "x": 0.835444705882353,
+      "y": 0.48114823529411765,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Jailer Vifil",
+      "x": 0.3253270588235294,
+      "y": 0.9159717647058824,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "King Tuscar",
+      "x": 0.4740329411764706,
+      "y": 0.8444423529411764,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Queen Kula",
+      "x": 0.46273882352941176,
+      "y": 0.8444423529411764,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Torst",
+      "x": 0.8222682352941176,
+      "y": 0.47361882352941176,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

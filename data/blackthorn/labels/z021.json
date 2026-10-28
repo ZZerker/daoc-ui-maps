@@ -1,0 +1,50 @@
+{
+  "zone": "021",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Acolyte Nascita",
+      "x": 0.5221560366119424,
+      "y": 0.5150370477989249,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Erisus",
+      "x": 0.3550777277349993,
+      "y": 0.28984454453000147,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Favonius Facilis",
+      "x": 0.52942031091094,
+      "y": 0.28984454453000147,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "High Priest Andania",
+      "x": 0.1662065959610635,
+      "y": 0.6167368879848903,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Virilis",
+      "x": 0.52942031091094,
+      "y": 0.297108818828999,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

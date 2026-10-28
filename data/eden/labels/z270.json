@@ -1,0 +1,14 @@
+{
+  "zone": "270",
+  "labels": [
+    {
+      "kind": "entrance",
+      "text": "Tir na Nog",
+      "x": 0.200408935546875,
+      "y": 0.0255279541015625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

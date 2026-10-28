@@ -1,0 +1,41 @@
+{
+  "zone": "216",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Shannon Estuary",
+      "x": 0,
+      "y": 0.25,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Lough Gur",
+      "x": 0,
+      "y": 0.75,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Bog of Cullen",
+      "x": 0.5,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "boss",
+      "text": "Cuuldurach the Glimmer King",
+      "x": 0.860595703125,
+      "y": 0.9033203125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

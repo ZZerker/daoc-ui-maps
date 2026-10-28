@@ -1,0 +1,50 @@
+{
+  "zone": "154",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Delling Crater",
+      "x": 0.375,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Munin Sound",
+      "x": 0,
+      "y": 0.875,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Iarnwood",
+      "x": 0.75,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Modernagrav",
+      "x": 1,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "town",
+      "text": "Hagall",
+      "x": 0.2777099609375,
+      "y": 0.872802734375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

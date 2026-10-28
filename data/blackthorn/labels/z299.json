@@ -1,0 +1,14 @@
+{
+  "zone": "299",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Thidranki",
+      "x": 0.5,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    }
+  ]
+}

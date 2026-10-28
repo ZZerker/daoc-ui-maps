@@ -1,0 +1,50 @@
+{
+  "zone": "217",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Meath",
+      "x": 0.5,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Saeranthal",
+      "x": 0,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Aberillan",
+      "x": 1,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Tullamore",
+      "x": 0.5,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.63934326171875,
+      "y": 0.4547119140625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

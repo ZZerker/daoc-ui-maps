@@ -1,0 +1,68 @@
+{
+  "zone": "201",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Lough Derg",
+      "x": 0.5,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Shannon Estuary",
+      "x": 0.25,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.49285888671875,
+      "y": 0.08544921875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.36163330078125,
+      "y": 0.64849853515625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Spraggon Den",
+      "x": 0.09527587890625,
+      "y": 0.3057403564453125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Ardagh",
+      "x": 0.4908447265625,
+      "y": 0.069793701171875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Howth",
+      "x": 0.32818603515625,
+      "y": 0.6646270751953125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

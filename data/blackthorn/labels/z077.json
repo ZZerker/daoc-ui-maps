@@ -1,0 +1,41 @@
+{
+  "zone": "077",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Mesothalassa",
+      "x": 0,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Typhon\u0027s Reach",
+      "x": 1,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "town",
+      "text": "Volcanus Haven",
+      "x": 0.831085205078125,
+      "y": 0.4611968994140625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Night\u0027s Shroud Bracelet",
+      "x": 0.3753662109375,
+      "y": 0.50201416015625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "zone": "158",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Faraheim",
+      "x": 0,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Iarnwood",
+      "x": 0.25,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    }
+  ]
+}

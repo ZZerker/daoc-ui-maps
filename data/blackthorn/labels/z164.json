@@ -1,0 +1,41 @@
+{
+  "zone": "164",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Agramon",
+      "x": 0.5,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Emain Macha",
+      "x": 0,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Hadrian\u0027s Wall",
+      "x": 1,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "boss",
+      "text": "Megalodon",
+      "x": 0.72174072265625,
+      "y": 0.3173828125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

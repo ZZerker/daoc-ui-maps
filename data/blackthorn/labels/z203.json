@@ -1,0 +1,23 @@
+{
+  "zone": "203",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Connacht",
+      "x": 1,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "entrance",
+      "text": "Koalinth Caverns",
+      "x": 0.399932861328125,
+      "y": 0.8401947021484375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "zone": "061",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Beran the Supply Master",
+      "x": 0.7283987632343296,
+      "y": 0.17091726787220088,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Deben se Gecynde",
+      "x": 0.21495362128736062,
+      "y": 0.6843624098191698,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Drihten Elreden",
+      "x": 0.5091539398482151,
+      "y": 0.9448327555513913,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Krevo Ricik",
+      "x": 0.33113463880820765,
+      "y": 0.8736250351353884,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Orshom Brond",
+      "x": 0.39859458446547363,
+      "y": 0.9823105031387613,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Orylle",
+      "x": 0.39859458446547363,
+      "y": 0.9916799400356039,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Scurceol Hyrde",
+      "x": 0.7846153846153846,
+      "y": 0.04161903869577439,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

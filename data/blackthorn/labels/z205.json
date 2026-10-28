@@ -1,0 +1,23 @@
+{
+  "zone": "205",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Lough Gur",
+      "x": 0,
+      "y": 0.25,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Sheeroe Hills",
+      "x": 0.5,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    }
+  ]
+}

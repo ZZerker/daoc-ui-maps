@@ -1,0 +1,77 @@
+{
+  "zone": "170",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Jamtland Mountains",
+      "x": 0.5,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "keep",
+      "text": "Fensalir Faste",
+      "x": 0.76171875,
+      "y": 0.7734375,
+      "priority": 1,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Fensalir Faste GT",
+      "x": 0.842498779296875,
+      "y": 0.7838592529296875,
+      "priority": 2,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Fensalir Faste WT",
+      "x": 0.5124053955078125,
+      "y": 0.669921875,
+      "priority": 2,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Glenlock Faste OP",
+      "x": 0.4871673583984375,
+      "y": 0.9788360595703125,
+      "priority": 2,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "portal",
+      "text": "Svasud Faste",
+      "x": 0.950531005859375,
+      "y": 0.2843780517578125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.94451904296875,
+      "y": 0.30364990234375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.1190185546875,
+      "y": 0.1617431640625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

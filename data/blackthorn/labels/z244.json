@@ -1,0 +1,14 @@
+{
+  "zone": "244",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Zilistiphle",
+      "x": 0.3372224846480869,
+      "y": 0.2721776098252244,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

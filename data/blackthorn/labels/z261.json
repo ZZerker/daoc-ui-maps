@@ -1,0 +1,32 @@
+{
+  "zone": "261",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Aylesbury",
+      "x": 1,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Chiltern",
+      "x": 0.5,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.537109375,
+      "y": 0.46844482421875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

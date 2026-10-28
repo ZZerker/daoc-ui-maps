@@ -1,0 +1,41 @@
+{
+  "zone": "126",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Gralf",
+      "x": 0.5587613480910335,
+      "y": 0.705509265016789,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Grjotgard",
+      "x": 0.9069767441860465,
+      "y": 0.27024001989802265,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Skeinweaver",
+      "x": 0.048874518094764334,
+      "y": 0.27024001989802265,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Ursin",
+      "x": 0.4592712349210297,
+      "y": 0.8796169630642955,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

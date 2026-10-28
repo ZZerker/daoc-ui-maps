@@ -1,0 +1,14 @@
+{
+  "zone": "187",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "World\u0027s End",
+      "x": 0.5,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    }
+  ]
+}

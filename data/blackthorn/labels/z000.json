@@ -1,0 +1,122 @@
+{
+  "zone": "000",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Salisbury Plains",
+      "x": 0.5,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Black Mtns. South",
+      "x": 0,
+      "y": 0.125,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Forest Sauvage",
+      "x": 0.625,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "boss",
+      "text": "Gwgyrch Gyrg",
+      "x": 0.26702880859375,
+      "y": 0.53253173828125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Mulgrut Maggot",
+      "x": 0.2532958984375,
+      "y": 0.72174072265625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.20904541015625,
+      "y": 0.41046142578125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.5462646484375,
+      "y": 0.042724609375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.384521484375,
+      "y": 0.7049560546875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Camelot City",
+      "x": 0.047698974609375,
+      "y": 0.4381103515625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Darkness Falls",
+      "x": 0.77606201171875,
+      "y": 0.80657958984375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Tomb of Mithra",
+      "x": 0.8316650390625,
+      "y": 0.60589599609375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Cotswold",
+      "x": 0.1549072265625,
+      "y": 0.4538116455078125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Prydwen Keep",
+      "x": 0.3863372802734375,
+      "y": 0.695343017578125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

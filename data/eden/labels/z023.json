@@ -1,0 +1,59 @@
+{
+  "zone": "023",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Amminus Pilus",
+      "x": 0.318748911971218,
+      "y": 0.2876457958567864,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Crotus Princeps Praetorii",
+      "x": 0.5160447977717171,
+      "y": 0.6880403876283874,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Emperor Seleucus",
+      "x": 0.5914814599895549,
+      "y": 0.8679278129170777,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Skull Eater",
+      "x": 0.6437068415249811,
+      "y": 0.9897870364997389,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Spirit of the Emperor",
+      "x": 0.6959322230604074,
+      "y": 0.2818429756861835,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Taras Princeps Praetorii",
+      "x": 0.6669181222073928,
+      "y": 0.6822375674577845,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

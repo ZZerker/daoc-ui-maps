@@ -1,0 +1,68 @@
+{
+  "zone": "222",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Dramacus",
+      "x": 0.048296857001810106,
+      "y": 0.5473918051670232,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Eraliwyr",
+      "x": 0.7558828369261149,
+      "y": 0.3746091821622511,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Ghost of Tabor",
+      "x": 0.5995557018265592,
+      "y": 0.012588448247490539,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Ruckus",
+      "x": 0.8217047885469804,
+      "y": 0.2923317426361692,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Spriggit",
+      "x": 0.41031759091657066,
+      "y": 0.09486588777357248,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Tabor",
+      "x": 0.9204377159782787,
+      "y": 0.5720750370248477,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Yadda",
+      "x": 0.6653776534474247,
+      "y": 0.9834622346552575,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

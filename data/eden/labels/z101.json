@@ -1,0 +1,95 @@
+{
+  "zone": "101",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Vale of Mularn",
+      "x": 0.75,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "neighbor",
+      "text": "West Svealand",
+      "x": 0,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Gotar",
+      "x": 0.5,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "boss",
+      "text": "Fangore",
+      "x": 0.5157470703125,
+      "y": 0.59661865234375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.0762939453125,
+      "y": 0.36163330078125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Cursed Tomb",
+      "x": 0.538665771484375,
+      "y": 0.82098388671875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Jordheim",
+      "x": 0.975341796875,
+      "y": 0.2635345458984375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Jordheim",
+      "x": 0.975341796875,
+      "y": 0.23651123046875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Audliten",
+      "x": 0.1234893798828125,
+      "y": 0.3607025146484375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Vasudheim",
+      "x": 0.8047027587890625,
+      "y": 0.28363037109375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

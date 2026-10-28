@@ -1,0 +1,86 @@
+{
+  "zone": "087",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Green Glades",
+      "x": 0,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "boss",
+      "text": "Afrit",
+      "x": 0.0885009765625,
+      "y": 0.0946044921875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Master Afrit",
+      "x": 0.3265380859375,
+      "y": 0.3997802734375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Talos",
+      "x": 0.84075927734375,
+      "y": 0.5584716796875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Cyclops\u0027 Eye",
+      "x": 0.5218505859375,
+      "y": 0.2777099609375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Enyalios Boots",
+      "x": 0.213623046875,
+      "y": 0.701904296875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Jacina\u0027s Sash",
+      "x": 0.05950927734375,
+      "y": 0.15106201171875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Shield of Khaos",
+      "x": 0.79803466796875,
+      "y": 0.1312255859375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Wings Dive Leggings",
+      "x": 0.0518798828125,
+      "y": 0.87890625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

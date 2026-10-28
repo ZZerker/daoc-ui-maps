@@ -1,0 +1,32 @@
+{
+  "zone": "156",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Faraheim",
+      "x": 0.25,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Modernagrav",
+      "x": 0.75,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "entrance",
+      "text": "Iarnvidiur\u0027s Lair",
+      "x": 0.4312896728515625,
+      "y": 0.61962890625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

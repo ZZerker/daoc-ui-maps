@@ -1,0 +1,14 @@
+{
+  "zone": "340",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Legion",
+      "x": 0.5751428990180273,
+      "y": 0.03951341052323025,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

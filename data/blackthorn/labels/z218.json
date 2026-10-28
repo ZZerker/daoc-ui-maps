@@ -1,0 +1,32 @@
+{
+  "zone": "218",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Meath",
+      "x": 0,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Aberillan",
+      "x": 0.5,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.46539306640625,
+      "y": 0.56610107421875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

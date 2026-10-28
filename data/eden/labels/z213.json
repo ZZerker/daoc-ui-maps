@@ -1,0 +1,50 @@
+{
+  "zone": "213",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Torrylin",
+      "x": 0.5,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Kilcullen",
+      "x": 1,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Dunshire",
+      "x": 0,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.6011962890625,
+      "y": 0.54779052734375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.46844482421875,
+      "y": 0.0335693359375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

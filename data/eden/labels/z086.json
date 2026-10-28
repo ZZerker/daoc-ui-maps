@@ -1,0 +1,77 @@
+{
+  "zone": "086",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Oceanus Notos",
+      "x": 0.25,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Arbor Glen",
+      "x": 1,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "boss",
+      "text": "Afrit",
+      "x": 0.1983642578125,
+      "y": 0.6256103515625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Master Afrit",
+      "x": 0.36773681640625,
+      "y": 0.33721923828125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Braggart\u0027s Bow",
+      "x": 0.66070556640625,
+      "y": 0.23956298828125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Cloudsong Cloak",
+      "x": 0.4974365234375,
+      "y": 0.50201416015625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Gift of Love",
+      "x": 0.51116943359375,
+      "y": 0.390625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Shield of Khaos",
+      "x": 0.311279296875,
+      "y": 0.62103271484375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

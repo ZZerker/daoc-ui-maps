@@ -1,0 +1,23 @@
+{
+  "zone": "089",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Katorii",
+      "x": 0.4974986378721086,
+      "y": 0.07330724652038238,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Typhon",
+      "x": 0.8318391203130417,
+      "y": 0.24171578582396355,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

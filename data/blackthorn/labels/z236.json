@@ -1,0 +1,14 @@
+{
+  "zone": "236",
+  "labels": [
+    {
+      "kind": "keep",
+      "text": "Caer Claret",
+      "x": 0.4944610595703125,
+      "y": 0.498504638671875,
+      "priority": 1,
+      "realm": 3,
+      "edge": null
+    }
+  ]
+}

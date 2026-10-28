@@ -1,0 +1,122 @@
+{
+  "zone": "079",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Aqua Captain",
+      "x": 0.34820745436659745,
+      "y": 0.27787189856814953,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Chaths",
+      "x": 0.4247185484752432,
+      "y": 0.04287353809159471,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Frost",
+      "x": 0.4247185484752432,
+      "y": 0.6194392829817467,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Herja Odinsdottir",
+      "x": 0.4247185484752432,
+      "y": 0.06473385069406493,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Luna",
+      "x": 0.6761121434036507,
+      "y": 0.5729861187014974,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Marble Statue",
+      "x": 0.43018362662586074,
+      "y": 0.3926385397311182,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Onuris",
+      "x": 0.4684391736801836,
+      "y": 0.5757186577768062,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Rrionne",
+      "x": 0.5941359711443873,
+      "y": 0.3625806099027216,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Rrionne\u0027s Reflection",
+      "x": 0.5941359711443873,
+      "y": 0.3625806099027216,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Slate Statue",
+      "x": 0.4602415564542573,
+      "y": 0.3899060006558094,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Stone Statue",
+      "x": 0.4739042518308012,
+      "y": 0.4226964695595147,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Triton",
+      "x": 0.4657066346048748,
+      "y": 0.578451196852115,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Ceremonial Bracers",
+      "x": 0.4657066346048748,
+      "y": 0.578451196852115,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

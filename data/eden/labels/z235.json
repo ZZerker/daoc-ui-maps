@@ -1,0 +1,14 @@
+{
+  "zone": "235",
+  "labels": [
+    {
+      "kind": "keep",
+      "text": "Leonis Keep",
+      "x": 0.4953155517578125,
+      "y": 0.49835205078125,
+      "priority": 1,
+      "realm": 2,
+      "edge": null
+    }
+  ]
+}

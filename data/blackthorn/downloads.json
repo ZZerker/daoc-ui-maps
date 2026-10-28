@@ -1,0 +1,43 @@
+{
+  "repo": "ZZerker/daoc-ui-maps",
+  "tag": "v1.3.0-blackthorn",
+  "released": "2026-10-28",
+  "files": [
+    {
+      "name": "blackthorn-ui-maps-256-nolabels.zip",
+      "format": "dds",
+      "size": 256,
+      "labels": false,
+      "bytes": 7491655
+    },
+    {
+      "name": "blackthorn-ui-maps-512-nolabels.zip",
+      "format": "dds",
+      "size": 512,
+      "labels": false,
+      "bytes": 27348777
+    },
+    {
+      "name": "blackthorn-ui-maps-1024-nolabels.zip",
+      "format": "dds",
+      "size": 1024,
+      "labels": false,
+      "bytes": 104211094
+    },
+    {
+      "name": "blackthorn-ui-maps-png-1024-nolabels.zip",
+      "format": "png",
+      "size": 1024,
+      "labels": false,
+      "bytes": 426476589
+    },
+    {
+      "name": "blackthorn-ui-maps-png-2048-nolabels.zip",
+      "format": "png",
+      "size": 2048,
+      "labels": false,
+      "bytes": 1375783060
+    }
+  ],
+  "zoneFile": "blackthorn-ui-maps-z{id}.png"
+}

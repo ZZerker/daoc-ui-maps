@@ -1,0 +1,14 @@
+{
+  "zone": "190",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Balor",
+      "x": 0.5174472925214283,
+      "y": 0.6670999715643661,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

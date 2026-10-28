@@ -1,0 +1,140 @@
+{
+  "zone": "178",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Irish Sea",
+      "x": 0,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Pennine Mountains",
+      "x": 0.5,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "keep",
+      "text": "Caer Benowyc",
+      "x": 0.293487548828125,
+      "y": 0.1619110107421875,
+      "priority": 1,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "keep",
+      "text": "Caer Berkstead",
+      "x": 0.9085235595703125,
+      "y": 0.2957611083984375,
+      "priority": 1,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "keep",
+      "text": "Caer Erasleigh",
+      "x": 0.2286376953125,
+      "y": 0.8678131103515625,
+      "priority": 1,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Caer Berkstead GT",
+      "x": 0.83209228515625,
+      "y": 0.288818359375,
+      "priority": 2,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Caer Erasleigh WT",
+      "x": 0.5083770751953125,
+      "y": 0.8045196533203125,
+      "priority": 2,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Caer Benowyc WT",
+      "x": 0.2380828857421875,
+      "y": 0.1123809814453125,
+      "priority": 2,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Caer Berkstead WT",
+      "x": 0.5360107421875,
+      "y": 0.3944244384765625,
+      "priority": 2,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Caer Erasleigh GT",
+      "x": 0.2800140380859375,
+      "y": 0.7897796630859375,
+      "priority": 2,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Caer Berkstead OP",
+      "x": 0.9163970947265625,
+      "y": 0.5116424560546875,
+      "priority": 2,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Caer Benowyc SP",
+      "x": 0.5630645751953125,
+      "y": 0.1291656494140625,
+      "priority": 2,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Caer Erasleigh OP",
+      "x": 0.3374176025390625,
+      "y": 0.5387420654296875,
+      "priority": 2,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "place",
+      "text": "Folley Lake",
+      "x": 0.732421875,
+      "y": 0.6103515625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Amrateth",
+      "x": 0.91552734375,
+      "y": 0.848388671875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

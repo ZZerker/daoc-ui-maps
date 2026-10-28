@@ -1,0 +1,68 @@
+{
+  "zone": "173",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Breifine",
+      "x": 1,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "keep",
+      "text": "Dun Ailinne",
+      "x": 0.781463623046875,
+      "y": 0.7760162353515625,
+      "priority": 1,
+      "realm": 3,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Dun Ailinne GT",
+      "x": 0.7990875244140625,
+      "y": 0.844024658203125,
+      "priority": 2,
+      "realm": 3,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Dun nGed OP",
+      "x": 0.9862060546875,
+      "y": 0.459075927734375,
+      "priority": 2,
+      "realm": 3,
+      "edge": null
+    },
+    {
+      "kind": "portal",
+      "text": "Druim Ligen",
+      "x": 0.5493927001953125,
+      "y": 0.9438018798828125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.225830078125,
+      "y": 0.24871826171875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.53558349609375,
+      "y": 0.93994140625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

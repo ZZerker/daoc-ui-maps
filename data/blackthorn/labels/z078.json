@@ -1,0 +1,14 @@
+{
+  "zone": "078",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Cetus",
+      "x": 0.538870372038555,
+      "y": 0.3296099450499955,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

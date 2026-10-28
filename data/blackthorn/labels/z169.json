@@ -1,0 +1,77 @@
+{
+  "zone": "169",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Jamtland Mountains",
+      "x": 0,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "keep",
+      "text": "Arvakr Faste",
+      "x": 0.46136474609375,
+      "y": 0.4406280517578125,
+      "priority": 1,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Arvakr Faste GT",
+      "x": 0.5389251708984375,
+      "y": 0.4334869384765625,
+      "priority": 2,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Arvakr Faste WT",
+      "x": 0.40863037109375,
+      "y": 0.2135467529296875,
+      "priority": 2,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Hlidskialf Faste SP",
+      "x": 0.0236053466796875,
+      "y": 0.7681427001953125,
+      "priority": 2,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "portal",
+      "text": "Vindsaul Faste",
+      "x": 0.9174346923828125,
+      "y": 0.060821533203125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.933837890625,
+      "y": 0.07781982421875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.69427490234375,
+      "y": 0.88043212890625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

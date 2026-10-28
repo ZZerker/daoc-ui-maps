@@ -1,0 +1,50 @@
+{
+  "zone": "029",
+  "labels": [
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.43792724609375,
+      "y": 0.41351318359375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.4638671875,
+      "y": 0.54168701171875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Allta Coill",
+      "x": 0.8615875244140625,
+      "y": 0.4648590087890625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Fintain",
+      "x": 0.4483795166015625,
+      "y": 0.4042816162109375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Ryley",
+      "x": 0.1149139404296875,
+      "y": 0.2286224365234375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

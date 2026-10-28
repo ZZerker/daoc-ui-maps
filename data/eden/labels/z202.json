@@ -1,0 +1,68 @@
+{
+  "zone": "202",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Silvermine Mts.",
+      "x": 0.75,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Lough Gur",
+      "x": 0.5,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Sheeroe Hills",
+      "x": 1,
+      "y": 0.75,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "boss",
+      "text": "Fangore",
+      "x": 0.225830078125,
+      "y": 0.47149658203125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.13885498046875,
+      "y": 0.42572021484375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.3570556640625,
+      "y": 0.4638671875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Connla",
+      "x": 0.1595001220703125,
+      "y": 0.4232940673828125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

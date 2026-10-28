@@ -1,0 +1,23 @@
+{
+  "zone": "180",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Anurigunda",
+      "x": 0.36391352549889133,
+      "y": 0.657760532150776,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Myrddraxis",
+      "x": 0.4470620842572062,
+      "y": 0.6023281596452328,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

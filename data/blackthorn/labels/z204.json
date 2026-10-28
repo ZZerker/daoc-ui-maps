@@ -1,0 +1,41 @@
+{
+  "zone": "204",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Shannon Estuary",
+      "x": 0.5,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Bog of Cullen",
+      "x": 1,
+      "y": 0.75,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Sheeroe Hills",
+      "x": 1,
+      "y": 0.25,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "town",
+      "text": "Culraid",
+      "x": 0.196868896484375,
+      "y": 0.11773681640625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

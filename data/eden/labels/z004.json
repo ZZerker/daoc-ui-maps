@@ -1,0 +1,23 @@
+{
+  "zone": "004",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Cornwall",
+      "x": 0.5,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "boss",
+      "text": "Golestandt",
+      "x": 0.59661865234375,
+      "y": 0.90484619140625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

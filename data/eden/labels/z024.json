@@ -1,0 +1,77 @@
+{
+  "zone": "024",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Director Botok",
+      "x": 0.593490746649649,
+      "y": 0.41726684292095906,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Emissary Sebian",
+      "x": 0.6573069559668155,
+      "y": 0.31698422827969736,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Morvel Glyne",
+      "x": 0.7393563679460298,
+      "y": 0.6451818761965539,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Overseer Tepok",
+      "x": 0.6299571519737441,
+      "y": 0.9460297201203391,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Sarel Sebian",
+      "x": 0.7484729692770535,
+      "y": 0.7910474974929347,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Savant",
+      "x": 0.7849393746011487,
+      "y": 0.5266660588932446,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Tuder Glyne",
+      "x": 0.7393563679460298,
+      "y": 0.6542984775275777,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Whisperer",
+      "x": 0.21059349074664965,
+      "y": 0.16200200565229284,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

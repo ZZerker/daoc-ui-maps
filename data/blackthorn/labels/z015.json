@@ -1,0 +1,14 @@
+{
+  "zone": "015",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Pennine Mountains",
+      "x": 0.25,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    }
+  ]
+}

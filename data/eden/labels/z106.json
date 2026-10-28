@@ -1,0 +1,50 @@
+{
+  "zone": "106",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Myrkwood Forest",
+      "x": 1,
+      "y": 0.25,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Vanern Swamp",
+      "x": 0,
+      "y": 0.25,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Malmohus",
+      "x": 0.5,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "entrance",
+      "text": "Varulvhamn",
+      "x": 0.32403564453125,
+      "y": 0.6219329833984375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "West Skona",
+      "x": 0.37786865234375,
+      "y": 0.348358154296875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

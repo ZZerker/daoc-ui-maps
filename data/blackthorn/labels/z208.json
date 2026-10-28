@@ -1,0 +1,14 @@
+{
+  "zone": "208",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Valley of Bri Leith",
+      "x": 0,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    }
+  ]
+}

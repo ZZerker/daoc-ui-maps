@@ -1,0 +1,41 @@
+{
+  "zone": "056",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Avalon Isle",
+      "x": 1,
+      "y": 0.25,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Gwyddneau",
+      "x": 0,
+      "y": 0.125,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "entrance",
+      "text": "Krondon",
+      "x": 0.403228759765625,
+      "y": 0.070098876953125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Caer Diogel",
+      "x": 0.65155029296875,
+      "y": 0.4241943359375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

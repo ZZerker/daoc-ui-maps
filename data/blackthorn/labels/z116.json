@@ -1,0 +1,23 @@
+{
+  "zone": "116",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Skona Ravine",
+      "x": 0.5,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "boss",
+      "text": "Gjalpinulva",
+      "x": 0.31585693359375,
+      "y": 0.836181640625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

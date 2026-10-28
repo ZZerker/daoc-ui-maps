@@ -1,0 +1,77 @@
+{
+  "zone": "176",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Pennine Mountains",
+      "x": 0,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "keep",
+      "text": "Caer Renaris",
+      "x": 0.0699310302734375,
+      "y": 0.769683837890625,
+      "priority": 1,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Caer Boldiam WT",
+      "x": 0.021026611328125,
+      "y": 0.403533935546875,
+      "priority": 2,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Caer Renaris GT",
+      "x": 0.0340728759765625,
+      "y": 0.844085693359375,
+      "priority": 2,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "portal",
+      "text": "Castle Sauvage",
+      "x": 0.479278564453125,
+      "y": 0.925140380859375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Green Knight",
+      "x": 0.3753662109375,
+      "y": 0.67901611328125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.84381103515625,
+      "y": 0.15869140625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.4608154296875,
+      "y": 0.92010498046875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

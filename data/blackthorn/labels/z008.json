@@ -1,0 +1,59 @@
+{
+  "zone": "008",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Salisbury Plains",
+      "x": 1,
+      "y": 0.25,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Avalon Marsh",
+      "x": 0,
+      "y": 0.75,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "boss",
+      "text": "Baestegor the Conjurer",
+      "x": 0.23345947265625,
+      "y": 0.03814697265625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.2593994140625,
+      "y": 0.1312255859375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.579833984375,
+      "y": 0.53558349609375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Keltoi Fogou",
+      "x": 0.926300048828125,
+      "y": 0.827972412109375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

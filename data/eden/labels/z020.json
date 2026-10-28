@@ -1,0 +1,41 @@
+{
+  "zone": "020",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Rilan",
+      "x": 1,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Dalton",
+      "x": 0.5,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Stoneleigh",
+      "x": 0,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.47760009765625,
+      "y": 0.4730224609375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

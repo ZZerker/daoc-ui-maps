@@ -1,0 +1,59 @@
+{
+  "zone": "052",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Isle of Glass",
+      "x": 1,
+      "y": 0.875,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Dales of Devwy",
+      "x": 0.125,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Aldland",
+      "x": 0,
+      "y": 0.75,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "entrance",
+      "text": "Avalon City",
+      "x": 0.4425048828125,
+      "y": 0.5052642822265625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Avalon City",
+      "x": 0.4425048828125,
+      "y": 0.318939208984375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Wearyall Village",
+      "x": 0.152587890625,
+      "y": 0.7843017578125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

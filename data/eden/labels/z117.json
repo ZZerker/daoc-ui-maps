@@ -1,0 +1,23 @@
+{
+  "zone": "117",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Erikstaad",
+      "x": 0.5,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Kaupang",
+      "x": 1,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    }
+  ]
+}

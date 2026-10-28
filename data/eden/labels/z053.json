@@ -1,0 +1,32 @@
+{
+  "zone": "053",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Avalon Isle",
+      "x": 0.875,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Caldey",
+      "x": 0,
+      "y": 0.375,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "town",
+      "text": "Fort Gwyntell",
+      "x": 0.76751708984375,
+      "y": 0.6103515625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

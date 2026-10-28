@@ -1,0 +1,50 @@
+{
+  "zone": "182",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Domnann",
+      "x": 1,
+      "y": 0.75,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Vale of Balor",
+      "x": 0,
+      "y": 0.25,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Vigilant Rock",
+      "x": 0.875,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "entrance",
+      "text": "Fomor",
+      "x": 0.3659515380859375,
+      "y": 0.033660888671875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Droighaid",
+      "x": 0.7916259765625,
+      "y": 0.930572509765625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

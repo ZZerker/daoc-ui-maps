@@ -1,0 +1,41 @@
+{
+  "zone": "073",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Mesothalassa",
+      "x": 1,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "town",
+      "text": "Hesperos Haven",
+      "x": 0.1809539794921875,
+      "y": 0.2847900390625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Goddess Necklace",
+      "x": 0.86669921875,
+      "y": 0.52032470703125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Traldor\u0027s Oracle",
+      "x": 0.5889892578125,
+      "y": 0.2288818359375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

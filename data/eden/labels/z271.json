@@ -1,0 +1,14 @@
+{
+  "zone": "271",
+  "labels": [
+    {
+      "kind": "entrance",
+      "text": "Spraggon Den",
+      "x": 0.09527587890625,
+      "y": 0.3057403564453125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

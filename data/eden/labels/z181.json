@@ -1,0 +1,23 @@
+{
+  "zone": "181",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Caillte Garran",
+      "x": 0,
+      "y": 0.25,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.46539306640625,
+      "y": 0.714111328125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

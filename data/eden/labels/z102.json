@@ -1,0 +1,68 @@
+{
+  "zone": "102",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "East Svealand",
+      "x": 1,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Raumarik",
+      "x": 0,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Yggdra Forest",
+      "x": 0.5,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "boss",
+      "text": "Balendros the Reanimator",
+      "x": 0.6988525390625,
+      "y": 0.68206787109375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.75531005859375,
+      "y": 0.01373291015625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.872802734375,
+      "y": 0.71258544921875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Huginfel",
+      "x": 0.8676300048828125,
+      "y": 0.7117919921875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

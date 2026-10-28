@@ -1,0 +1,77 @@
+{
+  "zone": "221",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Alsandair Muire",
+      "x": 0.23372655520665364,
+      "y": 0.647118730374268,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Beare Muire",
+      "x": 0.047016888738012394,
+      "y": 0.3331070185860986,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Conaire Muire",
+      "x": 0.4883306458457099,
+      "y": 0.7319867605872867,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Frang",
+      "x": 0.3864890095900874,
+      "y": 0.5198166850547399,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Kacey Muire",
+      "x": 0.6410931002291437,
+      "y": 0.25672579139438173,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Quillan Muire",
+      "x": 0.9211575999321056,
+      "y": 0.3840278367139099,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Scorpionida Regina",
+      "x": 0.6326062972078418,
+      "y": 0.5452770941186456,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Shyene Muire",
+      "x": 0.6920139183569549,
+      "y": 0.7913943817363999,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

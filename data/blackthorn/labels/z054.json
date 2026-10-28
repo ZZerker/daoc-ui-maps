@@ -1,0 +1,32 @@
+{
+  "zone": "054",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Dales of Devwy",
+      "x": 1,
+      "y": 0.625,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Gwyddneau",
+      "x": 0.375,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "entrance",
+      "text": "Caer Sidi",
+      "x": 0.105255126953125,
+      "y": 0.1283721923828125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "zone": "161",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Ancient Syver",
+      "x": 0.42050802373505597,
+      "y": 0.7588494928531759,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Iarnvidiur",
+      "x": 0.08728186840489902,
+      "y": 0.11578147379497822,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

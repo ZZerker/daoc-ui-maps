@@ -1,0 +1,59 @@
+{
+  "zone": "103",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "East Svealand",
+      "x": 0.5,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Myrkwood Forest",
+      "x": 0.75,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "boss",
+      "text": "Lyngbakr",
+      "x": 0.5706787109375,
+      "y": 0.0762939453125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.43487548828125,
+      "y": 0.19683837890625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.76751708984375,
+      "y": 0.5096435546875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Fort Atla",
+      "x": 0.434295654296875,
+      "y": 0.1387939453125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "zone": "064",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Old Sarum",
+      "x": 1,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Dalton",
+      "x": 0.5,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Sherborne",
+      "x": 0,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.506591796875,
+      "y": 0.457763671875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "zone": "055",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Caldey",
+      "x": 0.625,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Aldland",
+      "x": 1,
+      "y": 0.875,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Inishail Island",
+      "x": 0,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    }
+  ]
+}

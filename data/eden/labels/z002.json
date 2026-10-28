@@ -1,0 +1,68 @@
+{
+  "zone": "002",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Camelot Hills",
+      "x": 1,
+      "y": 0.875,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Black Mtns. North",
+      "x": 0.5,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "boss",
+      "text": "Fangore",
+      "x": 0.4974365234375,
+      "y": 0.36468505859375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Camelot City",
+      "x": 0.5131378173828125,
+      "y": 0.9736480712890625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Tepok\u0027s Mine",
+      "x": 0.075927734375,
+      "y": 0.0393829345703125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Humberton",
+      "x": 0.381439208984375,
+      "y": 0.6595458984375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Ludlow",
+      "x": 0.7254638671875,
+      "y": 0.686767578125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

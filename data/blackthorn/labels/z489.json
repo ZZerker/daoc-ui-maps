@@ -1,0 +1,50 @@
+{
+  "zone": "489",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Balban",
+      "x": 0.4912702974565311,
+      "y": 0.1035709153614025,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Budy the Necromancer",
+      "x": 0.7175959189538726,
+      "y": 0.25804713320879435,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Budy\u0027s Undead Necroservant",
+      "x": 0.7211883891363702,
+      "y": 0.25804713320879435,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Devlin",
+      "x": 0.6421540451214255,
+      "y": 0.6388489725535278,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Ralmer the Spiritmaster",
+      "x": 0.268537146141687,
+      "y": 0.5921468601810606,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

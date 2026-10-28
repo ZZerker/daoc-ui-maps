@@ -1,0 +1,131 @@
+{
+  "zone": "167",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Ellan Vannin",
+      "x": 0.25,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Jamtland Mountains",
+      "x": 1,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "keep",
+      "text": "Bledmeer Faste",
+      "x": 0.1424560546875,
+      "y": 0.716705322265625,
+      "priority": 1,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "keep",
+      "text": "Nottmoor Faste",
+      "x": 0.16436767578125,
+      "y": 0.07708740234375,
+      "priority": 1,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Bledmeer Faste GT",
+      "x": 0.094482421875,
+      "y": 0.776641845703125,
+      "priority": 2,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Nottmoor Faste WT",
+      "x": 0.1600189208984375,
+      "y": 0.1591033935546875,
+      "priority": 2,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Blendrake Faste WT",
+      "x": 0.84796142578125,
+      "y": 0.4842681884765625,
+      "priority": 2,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Nottmoor Faste GT",
+      "x": 0.368133544921875,
+      "y": 0.2985687255859375,
+      "priority": 2,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Nottmoor Faste OP",
+      "x": 0.536865234375,
+      "y": 0.08697509765625,
+      "priority": 2,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Bledmeer Faste SP",
+      "x": 0.1274871826171875,
+      "y": 0.4746856689453125,
+      "priority": 2,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Blendrake Faste OP",
+      "x": 0.869964599609375,
+      "y": 0.7889251708984375,
+      "priority": 2,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "place",
+      "text": "The Trellebourg",
+      "x": 0.6866455078125,
+      "y": 0.6103515625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Glacier Giant",
+      "x": 0.4852294921875,
+      "y": 0.7049560546875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Kjorlakath",
+      "x": 0.60577392578125,
+      "y": 0.640869140625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

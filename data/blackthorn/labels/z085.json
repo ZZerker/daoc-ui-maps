@@ -1,0 +1,50 @@
+{
+  "zone": "085",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Typhon\u0027s Reach",
+      "x": 0,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "boss",
+      "text": "Afrit",
+      "x": 0.56304931640625,
+      "y": 0.64544677734375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Chimera",
+      "x": 0.39520263671875,
+      "y": 0.5218505859375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Master Afrit",
+      "x": 0.59814453125,
+      "y": 0.66986083984375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Battler",
+      "x": 0.18463134765625,
+      "y": 0.347900390625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

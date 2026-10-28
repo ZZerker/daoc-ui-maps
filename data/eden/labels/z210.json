@@ -1,0 +1,23 @@
+{
+  "zone": "210",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Valley of Bri Leith",
+      "x": 0.5,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Breifine",
+      "x": 0.5,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    }
+  ]
+}

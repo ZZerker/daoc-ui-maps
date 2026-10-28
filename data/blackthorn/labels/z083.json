@@ -1,0 +1,14 @@
+{
+  "zone": "083",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Ammut",
+      "x": 0.9595746266802495,
+      "y": 0.4039058811836907,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

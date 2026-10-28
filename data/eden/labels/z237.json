@@ -1,0 +1,14 @@
+{
+  "zone": "237",
+  "labels": [
+    {
+      "kind": "keep",
+      "text": "Dun Killaloe",
+      "x": 0.5001678466796875,
+      "y": 0.49761962890625,
+      "priority": 1,
+      "realm": 3,
+      "edge": null
+    }
+  ]
+}

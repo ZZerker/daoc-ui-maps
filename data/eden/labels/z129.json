@@ -1,0 +1,50 @@
+{
+  "zone": "129",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Callilepis Nocturna",
+      "x": 0.05293376277832237,
+      "y": 0.36360453717966673,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Haunt",
+      "x": 0.38201932502450636,
+      "y": 0.3496008962330206,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Hnaki",
+      "x": 0.6200812211174905,
+      "y": 0.8887410726788965,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Nisse",
+      "x": 0.2419829155580451,
+      "y": 0.35660271670634364,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Skirr",
+      "x": 0.21397563366475283,
+      "y": 0.6786864584792046,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

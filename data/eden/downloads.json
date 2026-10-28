@@ -1,0 +1,78 @@
+{
+  "repo": "ZZerker/daoc-ui-maps",
+  "tag": "v1.3.0",
+  "released": "2026-10-28",
+  "files": [
+    {
+      "name": "daoc-ui-maps-256-labels.zip",
+      "format": "dds",
+      "size": 256,
+      "labels": true,
+      "bytes": 7988143
+    },
+    {
+      "name": "daoc-ui-maps-256-nolabels.zip",
+      "format": "dds",
+      "size": 256,
+      "labels": false,
+      "bytes": 7939224
+    },
+    {
+      "name": "daoc-ui-maps-512-labels.zip",
+      "format": "dds",
+      "size": 512,
+      "labels": true,
+      "bytes": 29115832
+    },
+    {
+      "name": "daoc-ui-maps-512-nolabels.zip",
+      "format": "dds",
+      "size": 512,
+      "labels": false,
+      "bytes": 29012390
+    },
+    {
+      "name": "daoc-ui-maps-1024-labels.zip",
+      "format": "dds",
+      "size": 1024,
+      "labels": true,
+      "bytes": 110887127
+    },
+    {
+      "name": "daoc-ui-maps-1024-nolabels.zip",
+      "format": "dds",
+      "size": 1024,
+      "labels": false,
+      "bytes": 110729584
+    },
+    {
+      "name": "daoc-ui-maps-png-1024-labels.zip",
+      "format": "png",
+      "size": 1024,
+      "labels": true,
+      "bytes": 453575135
+    },
+    {
+      "name": "daoc-ui-maps-png-1024-nolabels.zip",
+      "format": "png",
+      "size": 1024,
+      "labels": false,
+      "bytes": 451941307
+    },
+    {
+      "name": "daoc-ui-maps-png-2048-labels.zip",
+      "format": "png",
+      "size": 2048,
+      "labels": true,
+      "bytes": 1473031893
+    },
+    {
+      "name": "daoc-ui-maps-png-2048-nolabels.zip",
+      "format": "png",
+      "size": 2048,
+      "labels": false,
+      "bytes": 1450775666
+    }
+  ],
+  "zoneFile": "daoc-ui-maps-z{id}.png"
+}

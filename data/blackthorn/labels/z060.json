@@ -1,0 +1,104 @@
+{
+  "zone": "060",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Bane of Hope",
+      "x": 0.4616489230007428,
+      "y": 0.33810349096310965,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Bellum",
+      "x": 0.3774696707105719,
+      "y": 0.06575885120079228,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Crypt Lord",
+      "x": 0.28338697697449866,
+      "y": 0.8382272839811835,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Fames",
+      "x": 0.39727655360237685,
+      "y": 0.08061401336964595,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Funus",
+      "x": 0.39727655360237685,
+      "y": 0.0509036890319386,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Lich Lord Ilron",
+      "x": 0.7191384005942065,
+      "y": 0.6401584550631344,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Lord Sanguis",
+      "x": 0.6547660311958405,
+      "y": 0.4420896261450854,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Morbus",
+      "x": 0.4121317157712305,
+      "y": 0.06575885120079228,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Silencer",
+      "x": 0.45669720227779154,
+      "y": 0.6104481307254271,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Soul Reckoner",
+      "x": 0.3477593463728646,
+      "y": 0.5609309234959148,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Warlord Dorinakka",
+      "x": 0.6993315177024015,
+      "y": 0.8778410497647933,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

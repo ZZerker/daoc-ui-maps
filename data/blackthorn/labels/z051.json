@@ -1,0 +1,23 @@
+{
+  "zone": "051",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Avalon Isle",
+      "x": 0,
+      "y": 0.125,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.5279541015625,
+      "y": 0.775146484375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

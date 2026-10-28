@@ -1,0 +1,77 @@
+{
+  "zone": "125",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Danin",
+      "x": 0.1304388335041461,
+      "y": 0.5361036057020404,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Fas",
+      "x": 0.40995061958445916,
+      "y": 0.19137240286965435,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Igo",
+      "x": 0.6242429889126991,
+      "y": 0.27522593869374823,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Kalph",
+      "x": 0.6242429889126991,
+      "y": 0.22864064101369608,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Ond",
+      "x": 0.16770707164818782,
+      "y": 0.6665424392061865,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Smarta",
+      "x": 0.8664865368489705,
+      "y": 0.6572253796701761,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Vixitr",
+      "x": 0.4006335600484487,
+      "y": 0.7783471536383118,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Yleg",
+      "x": 0.35404826236839654,
+      "y": 0.46156712941395694,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

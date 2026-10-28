@@ -1,0 +1,41 @@
+{
+  "zone": "183",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Caillte Garran",
+      "x": 1,
+      "y": 0.75,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Cothrom Gorge",
+      "x": 0.625,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "entrance",
+      "text": "Tur Suil",
+      "x": 0.323211669921875,
+      "y": 0.946075439453125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Aalid Feie",
+      "x": 0.77667236328125,
+      "y": 0.3814697265625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

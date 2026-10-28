@@ -1,0 +1,95 @@
+{
+  "zone": "200",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Silvermine Mts.",
+      "x": 0.5,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Valley of Bri Leith",
+      "x": 1,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Connacht",
+      "x": 0.25,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "boss",
+      "text": "Koalinth Elder Spirit",
+      "x": 0.4302978515625,
+      "y": 0.74615478515625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Korgre the Deceived",
+      "x": 0.4119873046875,
+      "y": 0.01373291015625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.3875732421875,
+      "y": 0.68511962890625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.43182373046875,
+      "y": 0.10833740234375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Tir na Nog",
+      "x": 0.200408935546875,
+      "y": 0.0255279541015625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Mag Mell",
+      "x": 0.39971923828125,
+      "y": 0.11700439453125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Tir na mBeo",
+      "x": 0.3903045654296875,
+      "y": 0.6889190673828125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

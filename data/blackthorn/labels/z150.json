@@ -1,0 +1,23 @@
+{
+  "zone": "150",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Nedat gungledar",
+      "x": 0.6439230103806228,
+      "y": 0.5287629757785467,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Nosdoden",
+      "x": 0.5682309688581315,
+      "y": 0.09623702422145329,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "zone": "100",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "East Svealand",
+      "x": 0.25,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Muspelheim",
+      "x": 1,
+      "y": 0.25,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Uppland",
+      "x": 0.25,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "boss",
+      "text": "Yariac the Huldu",
+      "x": 0.72784423828125,
+      "y": 0.5859375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.1708984375,
+      "y": 0.0152587890625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.76446533203125,
+      "y": 0.8331298828125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.7110595703125,
+      "y": 0.09307861328125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Darkness Falls",
+      "x": 0.10552978515625,
+      "y": 0.4382781982421875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Jordheim",
+      "x": 0.8182373046875,
+      "y": 0.9074554443359375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Jordheim",
+      "x": 0.79107666015625,
+      "y": 0.90728759765625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Vendo Caverns",
+      "x": 0.3798370361328125,
+      "y": 0.105010986328125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Fort Veldon",
+      "x": 0.7028045654296875,
+      "y": 0.0959930419921875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Haggerfel",
+      "x": 0.786865234375,
+      "y": 0.4467926025390625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Mularn",
+      "x": 0.7797088623046875,
+      "y": 0.797332763671875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

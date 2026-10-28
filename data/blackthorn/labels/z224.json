@@ -1,0 +1,68 @@
+{
+  "zone": "224",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Ceracor",
+      "x": 0.6642661179698217,
+      "y": 0.26363168724279834,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Dreaded Ursine",
+      "x": 0.389917695473251,
+      "y": 0.6151406035665294,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Helminth",
+      "x": 0.15843621399176955,
+      "y": 0.6751543209876543,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Hursk the Alchemist",
+      "x": 0.2956104252400549,
+      "y": 0.8637688614540466,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "King Vian",
+      "x": 0.5099451303155007,
+      "y": 0.9666495198902606,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Mother Ehn Gollo",
+      "x": 0.20987654320987653,
+      "y": 0.5122599451303155,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Pericolias the Dreaded",
+      "x": 0.7757201646090535,
+      "y": 0.20361796982167352,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

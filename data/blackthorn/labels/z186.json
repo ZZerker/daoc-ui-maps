@@ -1,0 +1,32 @@
+{
+  "zone": "186",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Caillte Garran",
+      "x": 0.125,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "neighbor",
+      "text": "World\u0027s End",
+      "x": 0.25,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "town",
+      "text": "Necht",
+      "x": 0.79193115234375,
+      "y": 0.3753662109375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

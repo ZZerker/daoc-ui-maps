@@ -1,0 +1,23 @@
+{
+  "zone": "259",
+  "labels": [
+    {
+      "kind": "entrance",
+      "text": "Camelot City",
+      "x": 0.5131378173828125,
+      "y": 0.9736480712890625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Tepok\u0027s Mine",
+      "x": 0.075927734375,
+      "y": 0.0393829345703125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

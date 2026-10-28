@@ -1,0 +1,41 @@
+{
+  "zone": "260",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Dalton",
+      "x": 1,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Sherborne",
+      "x": 0.5,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Stoneleigh",
+      "x": 0.5,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.53863525390625,
+      "y": 0.518798828125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "zone": "211",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Connacht",
+      "x": 0.25,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Breifine",
+      "x": 1,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    }
+  ]
+}

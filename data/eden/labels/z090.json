@@ -1,0 +1,14 @@
+{
+  "zone": "090",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "The Phoenix",
+      "x": 0.4593081162435537,
+      "y": 0.5836966866603218,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

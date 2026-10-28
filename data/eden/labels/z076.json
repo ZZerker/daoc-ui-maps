@@ -1,0 +1,77 @@
+{
+  "zone": "076",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Mesothalassa",
+      "x": 0.5,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Green Glades",
+      "x": 0.75,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "boss",
+      "text": "Leviathan",
+      "x": 0.47454833984375,
+      "y": 0.927734375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Aerus Haven",
+      "x": 0.823333740234375,
+      "y": 0.884124755859375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Arms of the Winds",
+      "x": 0.39215087890625,
+      "y": 0.61187744140625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Kalare\u0027s Necklace",
+      "x": 0.50506591796875,
+      "y": 0.1190185546875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Spear of Kings",
+      "x": 0.78125,
+      "y": 0.56304931640625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Winged Helm",
+      "x": 0.72021484375,
+      "y": 0.2227783203125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

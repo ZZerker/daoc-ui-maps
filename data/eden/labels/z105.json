@@ -1,0 +1,41 @@
+{
+  "zone": "105",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Gotar",
+      "x": 0.25,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Skona Ravine",
+      "x": 0,
+      "y": 0.75,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "entrance",
+      "text": "Spindelhalla",
+      "x": 0.0624847412109375,
+      "y": 0.2382354736328125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Galplen",
+      "x": 0.6557464599609375,
+      "y": 0.381744384765625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

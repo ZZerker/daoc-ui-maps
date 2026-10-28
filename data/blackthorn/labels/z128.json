@@ -1,0 +1,50 @@
+{
+  "zone": "128",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Bevard",
+      "x": 0.6622694672131147,
+      "y": 0.5847848360655737,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Dread Lichess",
+      "x": 0.9696465163934426,
+      "y": 0.828125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Haggert",
+      "x": 0.9568391393442623,
+      "y": 0.7256659836065574,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Tomb Priestess",
+      "x": 0.4573514344262295,
+      "y": 0.4567110655737705,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Troika",
+      "x": 0.6878842213114754,
+      "y": 0.4182889344262295,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

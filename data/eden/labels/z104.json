@@ -1,0 +1,14 @@
+{
+  "zone": "104",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Vale of Mularn",
+      "x": 0,
+      "y": 0.75,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    }
+  ]
+}

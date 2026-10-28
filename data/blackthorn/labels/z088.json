@@ -1,0 +1,14 @@
+{
+  "zone": "088",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Martikhoras",
+      "x": 0.27295681063122923,
+      "y": 0.6932890365448505,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

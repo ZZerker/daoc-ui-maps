@@ -1,0 +1,41 @@
+{
+  "zone": "264",
+  "labels": [
+    {
+      "kind": "entrance",
+      "text": "Darkness Falls",
+      "x": 0.10552978515625,
+      "y": 0.4382781982421875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Jordheim",
+      "x": 0.79107666015625,
+      "y": 0.90728759765625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Jordheim",
+      "x": 0.8182373046875,
+      "y": 0.9074554443359375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Vendo Caverns",
+      "x": 0.3798370361328125,
+      "y": 0.105010986328125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

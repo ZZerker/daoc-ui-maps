@@ -1,0 +1,347 @@
+{
+  "zone": "120",
+  "labels": [
+    {
+      "kind": "enchanter",
+      "text": "Enchanter",
+      "x": 0.490615451767787,
+      "y": 0.8191182889567874,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "enchanter",
+      "text": "Enchanter",
+      "x": 0.7175905718027062,
+      "y": 0.6532518550851156,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "healer",
+      "text": "Healer",
+      "x": 0.43823657791357484,
+      "y": 0.49611523352247927,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "healer",
+      "text": "Healer",
+      "x": 0.7001309471846355,
+      "y": 0.4262767350501964,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "place",
+      "text": "Throne Room",
+      "x": 0.43823657791357484,
+      "y": 0.0770842426887822,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.7874290702749891,
+      "y": 0.6270624181580096,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.42077695329550413,
+      "y": 0.8365779135748581,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.45569620253164556,
+      "y": 0.09454386730685291,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "smith",
+      "text": "Smith",
+      "x": 0.43823657791357484,
+      "y": 0.6183326058489742,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "smith",
+      "text": "Smith",
+      "x": 0.5779135748581405,
+      "y": 0.6532518550851156,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "stable",
+      "text": "Stable",
+      "x": 0.8485377564382366,
+      "y": 0.391357485814055,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "trainer",
+      "text": "Be",
+      "x": 0.16761239633347882,
+      "y": 0.784199039720646,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "trainer",
+      "text": "Be",
+      "x": 0.3072893932780445,
+      "y": 0.8278481012658228,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "trainer",
+      "text": "Bo",
+      "x": 0.639022261021388,
+      "y": 0.8453077258838935,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "trainer",
+      "text": "He",
+      "x": 0.33347883020515057,
+      "y": 0.5746835443037974,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "trainer",
+      "text": "He",
+      "x": 0.490615451767787,
+      "y": 0.5223046704495853,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "trainer",
+      "text": "Hu",
+      "x": 0.7961588825840245,
+      "y": 0.7754692274116106,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "trainer",
+      "text": "Ma",
+      "x": 0.24618070711479703,
+      "y": 0.8540375381929288,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "trainer",
+      "text": "Ma",
+      "x": 0.1938018332605849,
+      "y": 0.7667394151025753,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "trainer",
+      "text": "Ru",
+      "x": 0.639022261021388,
+      "y": 0.8278481012658228,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "trainer",
+      "text": "Sa",
+      "x": 0.18507202095154954,
+      "y": 0.8453077258838935,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "trainer",
+      "text": "Sa",
+      "x": 0.3422086425141859,
+      "y": 0.7667394151025753,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "trainer",
+      "text": "Sb",
+      "x": 0.7699694456569184,
+      "y": 0.7754692274116106,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "trainer",
+      "text": "Sh",
+      "x": 0.516804888694893,
+      "y": 0.5746835443037974,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "trainer",
+      "text": "Sh",
+      "x": 0.368398079441292,
+      "y": 0.5310344827586206,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "trainer",
+      "text": "Sk",
+      "x": 0.31601920558707985,
+      "y": 0.7754692274116106,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "trainer",
+      "text": "Sk",
+      "x": 0.1501527717154081,
+      "y": 0.7667394151025753,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "trainer",
+      "text": "Sp",
+      "x": 0.6302924487123527,
+      "y": 0.8453077258838935,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "trainer",
+      "text": "Th",
+      "x": 0.16761239633347882,
+      "y": 0.7580096027935399,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "trainer",
+      "text": "Th",
+      "x": 0.2636403317328677,
+      "y": 0.7667394151025753,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "trainer",
+      "text": "Va",
+      "x": 0.29855958096900914,
+      "y": 0.8278481012658228,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "trainer",
+      "text": "Va",
+      "x": 0.1326931470973374,
+      "y": 0.7929288520296813,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "trainer",
+      "text": "Wa",
+      "x": 0.1501527717154081,
+      "y": 0.810388476647752,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "trainer",
+      "text": "Wa",
+      "x": 0.2723701440419031,
+      "y": 0.8540375381929288,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "trainer",
+      "text": "Wk",
+      "x": 0.639022261021388,
+      "y": 0.8627673505019642,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "vault",
+      "text": "Vault",
+      "x": 0.4469663902226102,
+      "y": 0.19057180270624183,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "vault",
+      "text": "Vault",
+      "x": 0.3247490178961152,
+      "y": 0.1556525534701004,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "vault",
+      "text": "Vault",
+      "x": 0.45569620253164556,
+      "y": 0.10327367961588826,
+      "priority": 2,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

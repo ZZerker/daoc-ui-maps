@@ -1,0 +1,23 @@
+{
+  "zone": "238",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Old Thidranki",
+      "x": 0.5,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "keep",
+      "text": "Thidranki Faste",
+      "x": 0.3865203857421875,
+      "y": 0.4592742919921875,
+      "priority": 1,
+      "realm": 3,
+      "edge": null
+    }
+  ]
+}

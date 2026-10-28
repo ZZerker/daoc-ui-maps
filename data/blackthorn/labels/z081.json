@@ -1,0 +1,104 @@
+{
+  "zone": "081",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Oceanus Boreal",
+      "x": 0.75,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Land of Atum",
+      "x": 0,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "boss",
+      "text": "Afrit",
+      "x": 0.6683349609375,
+      "y": 0.6256103515625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Master Afrit",
+      "x": 0.07781982421875,
+      "y": 0.45166015625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Stygia Haven",
+      "x": 0.59027099609375,
+      "y": 0.9255523681640625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Band of Stars",
+      "x": 0.13275146484375,
+      "y": 0.27923583984375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Crocodile\u0027s Tooth Dagger",
+      "x": 0.45928955078125,
+      "y": 0.61492919921875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Dream Sphere",
+      "x": 0.62103271484375,
+      "y": 0.787353515625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Golden Spear",
+      "x": 0.9063720703125,
+      "y": 0.47760009765625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Scorpion\u0027s Tail",
+      "x": 0.55999755859375,
+      "y": 0.65460205078125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Stone of Atlantis",
+      "x": 0.15106201171875,
+      "y": 0.84686279296875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

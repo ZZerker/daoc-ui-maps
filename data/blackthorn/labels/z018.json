@@ -1,0 +1,50 @@
+{
+  "zone": "018",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Caerwent",
+      "x": 1,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Brisworthy",
+      "x": 0.5,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Aylesbury",
+      "x": 0.5,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Chiltern",
+      "x": 0,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.45928955078125,
+      "y": 0.50811767578125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "zone": "057",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Gwyddneau",
+      "x": 1,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    }
+  ]
+}

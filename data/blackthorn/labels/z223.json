@@ -1,0 +1,41 @@
+{
+  "zone": "223",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Aqueous King",
+      "x": 0.7382727452662137,
+      "y": 0.69961074091179,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Horned Cave Toad",
+      "x": 0.38200171537903277,
+      "y": 0.7523916342284093,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Pelagian Alliant",
+      "x": 0.5205515603351587,
+      "y": 0.02665435112489279,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Shock Aqueous Slug",
+      "x": 0.494161113676849,
+      "y": 0.653427459259748,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

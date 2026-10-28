@@ -1,0 +1,41 @@
+{
+  "zone": "185",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Cothrom Gorge",
+      "x": 0,
+      "y": 0.75,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Vigilant Rock",
+      "x": 0.75,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Allta Fearann",
+      "x": 0.5,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "entrance",
+      "text": "Galladoria",
+      "x": 0.7623138427734375,
+      "y": 0.2159881591796875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

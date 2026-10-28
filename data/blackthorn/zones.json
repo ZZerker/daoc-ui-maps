@@ -1,0 +1,5277 @@
+{
+  "client": "blackthorn",
+  "source": "blackthorn_all4",
+  "generated": "2026-10-28",
+  "zones": [
+    {
+      "id": "000",
+      "name": "Camelot Hills",
+      "realm": "Albion",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "001",
+      "name": "Salisbury Plains",
+      "realm": "Albion",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "002",
+      "name": "Black Mtns. South",
+      "realm": "Albion",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "003",
+      "name": "Black Mtns. North",
+      "realm": "Albion",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "004",
+      "name": "Dartmoor",
+      "realm": "Albion",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "006",
+      "name": "Cornwall",
+      "realm": "Albion",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "007",
+      "name": "Llyn Barfog",
+      "realm": "Albion",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "008",
+      "name": "Campacorentin Forest",
+      "realm": "Albion",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "009",
+      "name": "Avalon Marsh",
+      "realm": "Albion",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "010",
+      "name": "Lyonesse",
+      "realm": "Albion",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "011",
+      "name": "Forest Sauvage",
+      "realm": "All Realms",
+      "expansion": "Old Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "012",
+      "name": "Snowdonia",
+      "realm": "All Realms",
+      "expansion": "Old Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "013",
+      "name": "Caerwent",
+      "realm": "Albion",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "014",
+      "name": "Pennine Mountains",
+      "realm": "All Realms",
+      "expansion": "Old Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "015",
+      "name": "Hadrian\u0027s Wall",
+      "realm": "All Realms",
+      "expansion": "Old Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "016",
+      "name": "Old Sarum",
+      "realm": "Albion",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "017",
+      "name": "Rilan",
+      "realm": "Albion",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "018",
+      "name": "Dalton",
+      "realm": "Albion",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "019",
+      "name": "Stonehenge Barrows",
+      "realm": "Albion",
+      "expansion": "Classic",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 16622,
+        "offsetY": 13583,
+        "width": 12694
+      },
+      "labels": true,
+      "levels": [
+        {
+          "index": 0,
+          "name": "Upper Barrows",
+          "z": 15399,
+          "depth": 2206
+        },
+        {
+          "index": 1,
+          "name": "Lower Barrows",
+          "z": 13399,
+          "depth": 2000
+        }
+      ]
+    },
+    {
+      "id": "020",
+      "name": "Brisworthy",
+      "realm": "Albion",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "021",
+      "name": "Tomb of Mithra",
+      "realm": "Albion",
+      "expansion": "Classic",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 12412,
+        "offsetY": 17710,
+        "width": 13766
+      },
+      "labels": true
+    },
+    {
+      "id": "022",
+      "name": "Keltoi Fogou",
+      "realm": "Albion",
+      "expansion": "Classic",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21729,
+        "offsetY": 19734,
+        "width": 7808
+      },
+      "labels": true
+    },
+    {
+      "id": "023",
+      "name": "Catacombs of Cardova",
+      "realm": "Albion",
+      "expansion": "Classic",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 15007,
+        "offsetY": 20143,
+        "width": 17233
+      },
+      "labels": true
+    },
+    {
+      "id": "024",
+      "name": "Tepok\u0027s Mine",
+      "realm": "Albion",
+      "expansion": "Classic",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20390,
+        "offsetY": 16323,
+        "width": 10969
+      },
+      "labels": true
+    },
+    {
+      "id": "026",
+      "name": "City of Camelot",
+      "realm": "Albion",
+      "expansion": "Classic",
+      "type": "Capitol",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21900,
+        "offsetY": 13350,
+        "width": 11200
+      },
+      "labels": true
+    },
+    {
+      "id": "027",
+      "name": "Constantine\u0027s Sound",
+      "realm": "Albion",
+      "expansion": "Tutorial",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "028",
+      "name": "Grenlock\u0027s Sound",
+      "realm": "Midgard",
+      "expansion": "Tutorial",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "029",
+      "name": "Lamfhota\u0027s Sound",
+      "realm": "Hibernia",
+      "expansion": "Tutorial",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "048",
+      "name": "Unused Mine",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 15391,
+        "offsetY": 13328,
+        "width": 13176
+      },
+      "labels": true
+    },
+    {
+      "id": "049",
+      "name": "Rugnog\u0027s Haven",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 12925,
+        "offsetY": 4610,
+        "width": 40579
+      },
+      "labels": true
+    },
+    {
+      "id": "050",
+      "name": "Avalon City",
+      "realm": "Albion",
+      "expansion": "Shrouded Isles",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 10130,
+        "offsetY": 11915,
+        "width": 28840
+      },
+      "labels": true
+    },
+    {
+      "id": "051",
+      "name": "Isle of Glass",
+      "realm": "Albion",
+      "expansion": "Shrouded Isles",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "052",
+      "name": "Avalon Isle",
+      "realm": "Albion",
+      "expansion": "Shrouded Isles",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "053",
+      "name": "Dales of Devwy",
+      "realm": "Albion",
+      "expansion": "Shrouded Isles",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "054",
+      "name": "Caldey",
+      "realm": "Albion",
+      "expansion": "Shrouded Isles",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "055",
+      "name": "Gwyddneau",
+      "realm": "Albion",
+      "expansion": "Shrouded Isles",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "056",
+      "name": "Aldland",
+      "realm": "Albion",
+      "expansion": "Shrouded Isles",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "057",
+      "name": "Inishail Island",
+      "realm": "Albion",
+      "expansion": "Shrouded Isles",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "058",
+      "name": "Midgard\u0027s Underground Forest",
+      "realm": "Midgard",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 1979,
+        "offsetY": 2535,
+        "width": 41678
+      },
+      "labels": true
+    },
+    {
+      "id": "059",
+      "name": "Albion\u0027s Glashtin Forges",
+      "realm": "Albion",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 11444,
+        "offsetY": 8645,
+        "width": 26390
+      },
+      "labels": true
+    },
+    {
+      "id": "060",
+      "name": "Caer Sidi",
+      "realm": "Albion",
+      "expansion": "Shrouded Isles",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 13277,
+        "offsetY": 15772,
+        "width": 20195
+      },
+      "labels": true,
+      "levels": [
+        {
+          "index": 0,
+          "name": "Entry Level",
+          "z": 17500,
+          "depth": 1350
+        },
+        {
+          "index": 1,
+          "name": "Sublevel One",
+          "z": 16000,
+          "depth": 1500
+        },
+        {
+          "index": 2,
+          "name": "Sublevel Two",
+          "z": 14800,
+          "depth": 1200
+        },
+        {
+          "index": 3,
+          "name": "Sublevel Three",
+          "z": 13000,
+          "depth": 1800
+        },
+        {
+          "index": 4,
+          "name": "Top Level",
+          "z": 18850,
+          "depth": 3150
+        }
+      ]
+    },
+    {
+      "id": "061",
+      "name": "Krondon",
+      "realm": "Albion",
+      "expansion": "Shrouded Isles",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 1929,
+        "offsetY": 9579,
+        "width": 53365
+      },
+      "labels": true
+    },
+    {
+      "id": "062",
+      "name": "Crystal Cave",
+      "realm": "Albion",
+      "expansion": "Shrouded Isles",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19334,
+        "offsetY": 21177,
+        "width": 7410
+      },
+      "labels": true
+    },
+    {
+      "id": "063",
+      "name": "Roman Aqueducts",
+      "realm": "Albion",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 5577,
+        "offsetY": 7275,
+        "width": 31365
+      },
+      "labels": true
+    },
+    {
+      "id": "064",
+      "name": "Aylesbury",
+      "realm": "Albion",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "065",
+      "name": "Inconnu Crypt",
+      "realm": "Albion",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 9178,
+        "offsetY": 16392,
+        "width": 28952
+      },
+      "labels": true
+    },
+    {
+      "id": "066",
+      "name": "Albion\u0027s Underground Forest",
+      "realm": "Albion",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 2327,
+        "offsetY": 3472,
+        "width": 41464
+      },
+      "labels": true
+    },
+    {
+      "id": "067",
+      "name": "The Deadlands of Annwn",
+      "realm": "Albion",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 7459,
+        "offsetY": 4538,
+        "width": 31736
+      },
+      "labels": true
+    },
+    {
+      "id": "068",
+      "name": "Lower Crypt",
+      "realm": "Albion",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 5541,
+        "offsetY": 6660,
+        "width": 26199
+      },
+      "labels": true
+    },
+    {
+      "id": "069",
+      "name": "Albion\u0027s Darkspire",
+      "realm": "Albion",
+      "expansion": "Catacombs",
+      "type": "Instances",
+      "size": 2048,
+      "frame": {
+        "offsetX": 3048,
+        "offsetY": 12967,
+        "width": 25052
+      },
+      "labels": true
+    },
+    {
+      "id": "070",
+      "name": "Ruins of Atlantis",
+      "realm": "All Realms",
+      "expansion": "Trials of Atlantis",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "071",
+      "name": "Ruinerar av Atlantis",
+      "realm": "All Realms",
+      "expansion": "Trials of Atlantis",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "072",
+      "name": "Scrios de Atlantis",
+      "realm": "All Realms",
+      "expansion": "Trials of Atlantis",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "073",
+      "name": "Oceanus Hesperos",
+      "realm": "All Realms",
+      "expansion": "Trials of Atlantis",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "074",
+      "name": "Mesothalassa",
+      "realm": "All Realms",
+      "expansion": "Trials of Atlantis",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "075",
+      "name": "Oceanus Boreal",
+      "realm": "All Realms",
+      "expansion": "Trials of Atlantis",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "076",
+      "name": "Oceanus Notos",
+      "realm": "All Realms",
+      "expansion": "Trials of Atlantis",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "077",
+      "name": "Oceanus Anatole",
+      "realm": "All Realms",
+      "expansion": "Trials of Atlantis",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "078",
+      "name": "Cetus\u0027 Pit",
+      "realm": "All Realms",
+      "expansion": "Trials of Atlantis",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 17718,
+        "offsetY": 21741,
+        "width": 11101
+      },
+      "labels": true
+    },
+    {
+      "id": "079",
+      "name": "Sobekite Eternal",
+      "realm": "All Realms",
+      "expansion": "Trials of Atlantis",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 8257,
+        "offsetY": 1731,
+        "width": 36596
+      },
+      "labels": true
+    },
+    {
+      "id": "080",
+      "name": "Temple of Twilight",
+      "realm": "All Realms",
+      "expansion": "Trials of Atlantis",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 17786,
+        "offsetY": 392,
+        "width": 44265
+      },
+      "labels": true
+    },
+    {
+      "id": "081",
+      "name": "Stygian Delta",
+      "realm": "All Realms",
+      "expansion": "Trials of Atlantis",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "082",
+      "name": "Land of Atum",
+      "realm": "All Realms",
+      "expansion": "Trials of Atlantis",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "083",
+      "name": "Halls of Ma\u0027ati",
+      "realm": "All Realms",
+      "expansion": "Trials of Atlantis",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 3680,
+        "offsetY": 12244,
+        "width": 40247
+      },
+      "labels": true
+    },
+    {
+      "id": "084",
+      "name": "Typhon\u0027s Reach",
+      "realm": "All Realms",
+      "expansion": "Trials of Atlantis",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "085",
+      "name": "Ashen Isles",
+      "realm": "All Realms",
+      "expansion": "Trials of Atlantis",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "086",
+      "name": "Green Glades",
+      "realm": "All Realms",
+      "expansion": "Trials of Atlantis",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "087",
+      "name": "Arbor Glen",
+      "realm": "All Realms",
+      "expansion": "Trials of Atlantis",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "088",
+      "name": "the Great Pyramid of Stygia",
+      "realm": "All Realms",
+      "expansion": "Trials of Atlantis",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20046,
+        "offsetY": 19583,
+        "width": 7525
+      },
+      "labels": true
+    },
+    {
+      "id": "089",
+      "name": "Deep Volcanus",
+      "realm": "All Realms",
+      "expansion": "Trials of Atlantis",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 8812,
+        "offsetY": 1840,
+        "width": 40378
+      },
+      "labels": true
+    },
+    {
+      "id": "090",
+      "name": "City of Aerus",
+      "realm": "All Realms",
+      "expansion": "Trials of Atlantis",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 5948,
+        "offsetY": 728,
+        "width": 45181
+      },
+      "labels": true
+    },
+    {
+      "id": "091",
+      "name": "Celestius",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19843,
+        "offsetY": 19844,
+        "width": 7929
+      },
+      "labels": true
+    },
+    {
+      "id": "092",
+      "name": "Veil Rift",
+      "realm": "Hibernia",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 12925,
+        "offsetY": 4610,
+        "width": 40579
+      },
+      "labels": true
+    },
+    {
+      "id": "093",
+      "name": "Shar Labyrinth",
+      "realm": "Hibernia",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 13410,
+        "offsetY": 13154,
+        "width": 14938
+      },
+      "labels": true
+    },
+    {
+      "id": "094",
+      "name": "The Queen\u0027s Labyrinth",
+      "realm": "Hibernia",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 16767,
+        "offsetY": 10710,
+        "width": 23655
+      },
+      "labels": true
+    },
+    {
+      "id": "095",
+      "name": "Hibernia\u0027s Frontlines",
+      "realm": "Hibernia",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 4134,
+        "offsetY": 6311,
+        "width": 37690
+      },
+      "labels": true
+    },
+    {
+      "id": "096",
+      "name": "Hibernia\u0027s Underground Forest",
+      "realm": "Hibernia",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 2330,
+        "offsetY": 2734,
+        "width": 41321
+      },
+      "labels": true
+    },
+    {
+      "id": "097",
+      "name": "Hibernia\u0027s Deadlands",
+      "realm": "Hibernia",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 3776,
+        "offsetY": -1680,
+        "width": 29920
+      },
+      "labels": true
+    },
+    {
+      "id": "098",
+      "name": "Hibernia\u0027s Darkspire",
+      "realm": "Hibernia",
+      "expansion": "Catacombs",
+      "type": "Instances",
+      "size": 2048,
+      "frame": {
+        "offsetX": 3048,
+        "offsetY": 12967,
+        "width": 25052
+      },
+      "labels": true
+    },
+    {
+      "id": "099",
+      "name": "Hibernia\u0027s Glashtin Forge",
+      "realm": "Hibernia",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 9891,
+        "offsetY": 7359,
+        "width": 29160
+      },
+      "labels": true
+    },
+    {
+      "id": "100",
+      "name": "Vale of Mularn",
+      "realm": "Midgard",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "101",
+      "name": "East Svealand",
+      "realm": "Midgard",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "102",
+      "name": "West Svealand",
+      "realm": "Midgard",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "103",
+      "name": "Gotar",
+      "realm": "Midgard",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "104",
+      "name": "Muspelheim",
+      "realm": "Midgard",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "105",
+      "name": "Myrkwood Forest",
+      "realm": "Midgard",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "106",
+      "name": "Skona Ravine",
+      "realm": "Midgard",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "107",
+      "name": "Vanern Swamp",
+      "realm": "Midgard",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "108",
+      "name": "Raumarik",
+      "realm": "Midgard",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "109",
+      "name": "Albion\u0027s Frontlines",
+      "realm": "Albion",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 2398,
+        "offsetY": 324,
+        "width": 43621
+      },
+      "labels": true
+    },
+    {
+      "id": "111",
+      "name": "Uppland",
+      "realm": "All Realms",
+      "expansion": "Old Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "112",
+      "name": "Yggdra Forest",
+      "realm": "All Realms",
+      "expansion": "Old Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "113",
+      "name": "Jamtland Mountains",
+      "realm": "All Realms",
+      "expansion": "Old Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "114",
+      "name": "Erikstaad",
+      "realm": "Midgard",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "115",
+      "name": "Odin\u0027s Gate",
+      "realm": "All Realms",
+      "expansion": "Old Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "116",
+      "name": "Malmohus",
+      "realm": "Midgard",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "117",
+      "name": "Arothi",
+      "realm": "Midgard",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "118",
+      "name": "Carlingford",
+      "realm": "Midgard",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "119",
+      "name": "Wyndham",
+      "realm": "Midgard",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "120",
+      "name": "Jordheim",
+      "realm": "Midgard",
+      "expansion": "Classic",
+      "type": "Capitol",
+      "size": 2048,
+      "frame": {
+        "offsetX": 18580,
+        "offsetY": 17917,
+        "width": 11455
+      },
+      "labels": true
+    },
+    {
+      "id": "121",
+      "name": "Frisia",
+      "realm": "Midgard",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "122",
+      "name": "Kaupang",
+      "realm": "Midgard",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "123",
+      "name": "Aphophian",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 17184,
+        "offsetY": 19589,
+        "width": 2542
+      },
+      "labels": true
+    },
+    {
+      "id": "124",
+      "name": "Hephaestian",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 16803,
+        "offsetY": 22906,
+        "width": 2542
+      },
+      "labels": true
+    },
+    {
+      "id": "125",
+      "name": "Spindelhalla",
+      "realm": "Midgard",
+      "expansion": "Classic",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 18600,
+        "offsetY": 18046,
+        "width": 10733
+      },
+      "labels": true,
+      "levels": [
+        {
+          "index": 0,
+          "name": "Upper Spindelhalla",
+          "z": 15653,
+          "depth": 4000
+        },
+        {
+          "index": 1,
+          "name": "Lower Spindelhalla",
+          "z": 14151,
+          "depth": 1502
+        }
+      ]
+    },
+    {
+      "id": "126",
+      "name": "Vendo Caverns",
+      "realm": "Midgard",
+      "expansion": "Classic",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 17307,
+        "offsetY": 20027,
+        "width": 8041
+      },
+      "labels": true
+    },
+    {
+      "id": "127",
+      "name": "Varulvhamn",
+      "realm": "Midgard",
+      "expansion": "Classic",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 7676,
+        "offsetY": 11157,
+        "width": 19880
+      },
+      "labels": true
+    },
+    {
+      "id": "128",
+      "name": "Cursed Tomb",
+      "realm": "Midgard",
+      "expansion": "Classic",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21729,
+        "offsetY": 19734,
+        "width": 7808
+      },
+      "labels": true
+    },
+    {
+      "id": "129",
+      "name": "Nisse\u0027s Lair",
+      "realm": "Midgard",
+      "expansion": "Classic",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 17244,
+        "offsetY": 19507,
+        "width": 14282
+      },
+      "labels": true
+    },
+    {
+      "id": "148",
+      "name": "The Frontlines",
+      "realm": "Midgard",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 1243,
+        "offsetY": 8058,
+        "width": 37084
+      },
+      "labels": true
+    },
+    {
+      "id": "149",
+      "name": "Nyttheim",
+      "realm": "Midgard",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 9105,
+        "offsetY": 6534,
+        "width": 29036
+      },
+      "labels": true
+    },
+    {
+      "id": "150",
+      "name": "Trollheim",
+      "realm": "Midgard",
+      "expansion": "Shrouded Isles",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 3025,
+        "offsetY": -350,
+        "width": 46240
+      },
+      "labels": true,
+      "levels": [
+        {
+          "index": 0,
+          "name": "Main Floor",
+          "z": 13700,
+          "depth": 2700
+        },
+        {
+          "index": 1,
+          "name": "Temple of War",
+          "z": 16400,
+          "depth": 3100
+        }
+      ]
+    },
+    {
+      "id": "151",
+      "name": "Aegir\u0027s Landing",
+      "realm": "Midgard",
+      "expansion": "Shrouded Isles",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "152",
+      "name": "Gripklosa Mountains",
+      "realm": "Midgard",
+      "expansion": "Shrouded Isles",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "153",
+      "name": "Delling Crater",
+      "realm": "Midgard",
+      "expansion": "Shrouded Isles",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "154",
+      "name": "Faraheim",
+      "realm": "Midgard",
+      "expansion": "Shrouded Isles",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "155",
+      "name": "Munin Sound",
+      "realm": "Midgard",
+      "expansion": "Shrouded Isles",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "156",
+      "name": "Iarnwood",
+      "realm": "Midgard",
+      "expansion": "Shrouded Isles",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "158",
+      "name": "Modernagrav",
+      "realm": "Midgard",
+      "expansion": "Shrouded Isles",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "160",
+      "name": "Tuscaran Glacier",
+      "realm": "Midgard",
+      "expansion": "Shrouded Isles",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 1317,
+        "offsetY": 4139,
+        "width": 53125
+      },
+      "labels": true
+    },
+    {
+      "id": "161",
+      "name": "Iarnvidiur\u0027s Lair",
+      "realm": "Midgard",
+      "expansion": "Shrouded Isles",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 2714,
+        "offsetY": -561,
+        "width": 34211
+      },
+      "labels": true,
+      "levels": [
+        {
+          "index": 0,
+          "name": "Main Tunnels",
+          "z": 15750,
+          "depth": 5050
+        },
+        {
+          "index": 1,
+          "name": "Lower Tunnels",
+          "z": 12600,
+          "depth": 3150
+        }
+      ]
+    },
+    {
+      "id": "162",
+      "name": "Midgard\u0027s Deadlands",
+      "realm": "Midgard",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 3757,
+        "offsetY": -1680,
+        "width": 29920
+      },
+      "labels": true
+    },
+    {
+      "id": "163",
+      "name": "Agramon",
+      "realm": "All Realms",
+      "expansion": "New Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "164",
+      "name": "Irish Sea",
+      "realm": "All Realms",
+      "expansion": "New Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "165",
+      "name": "Cathal Valley",
+      "realm": "All Realms",
+      "expansion": "New Frontiers",
+      "type": "Battlegrounds",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "167",
+      "name": "Odin\u0027s Gate",
+      "realm": "All Realms",
+      "expansion": "New Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "168",
+      "name": "Jamtland Mountains",
+      "realm": "All Realms",
+      "expansion": "New Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "169",
+      "name": "Yggdra Forest",
+      "realm": "All Realms",
+      "expansion": "New Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "170",
+      "name": "Uppland",
+      "realm": "All Realms",
+      "expansion": "New Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "171",
+      "name": "Emain Macha",
+      "realm": "All Realms",
+      "expansion": "New Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "172",
+      "name": "Breifine",
+      "realm": "All Realms",
+      "expansion": "New Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "173",
+      "name": "Cruachan Gorge",
+      "realm": "All Realms",
+      "expansion": "New Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "174",
+      "name": "Mount Collory",
+      "realm": "All Realms",
+      "expansion": "New Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "175",
+      "name": "Snowdonia",
+      "realm": "All Realms",
+      "expansion": "New Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "176",
+      "name": "Forest Sauvage",
+      "realm": "All Realms",
+      "expansion": "New Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "177",
+      "name": "Pennine Mountains",
+      "realm": "All Realms",
+      "expansion": "New Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "178",
+      "name": "Hadrian\u0027s Wall",
+      "realm": "All Realms",
+      "expansion": "New Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "180",
+      "name": "Fomor",
+      "realm": "Hibernia",
+      "expansion": "Shrouded Isles",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 16135,
+        "offsetY": 13034,
+        "width": 18040
+      },
+      "labels": true
+    },
+    {
+      "id": "181",
+      "name": "Domnann",
+      "realm": "Hibernia",
+      "expansion": "Shrouded Isles",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "182",
+      "name": "Caillte Garran",
+      "realm": "Hibernia",
+      "expansion": "Shrouded Isles",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "183",
+      "name": "Vale of Balor",
+      "realm": "Hibernia",
+      "expansion": "Shrouded Isles",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "184",
+      "name": "Cothrom Gorge",
+      "realm": "Hibernia",
+      "expansion": "Shrouded Isles",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "185",
+      "name": "World\u0027s End",
+      "realm": "Hibernia",
+      "expansion": "Shrouded Isles",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "186",
+      "name": "Vigilant Rock",
+      "realm": "Hibernia",
+      "expansion": "Shrouded Isles",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "187",
+      "name": "Allta Fearann",
+      "realm": "Hibernia",
+      "expansion": "Shrouded Isles",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "188",
+      "name": "Midgard\u0027s Darkspire",
+      "realm": "Midgard",
+      "expansion": "Catacombs",
+      "type": "Instances",
+      "size": 2048,
+      "frame": {
+        "offsetX": 3048,
+        "offsetY": 12967,
+        "width": 25052
+      },
+      "labels": true
+    },
+    {
+      "id": "189",
+      "name": "Midgard\u0027s Glashtin Forges",
+      "realm": "Midgard",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 11297,
+        "offsetY": 9318,
+        "width": 26540
+      },
+      "labels": true
+    },
+    {
+      "id": "190",
+      "name": "Tur Suil",
+      "realm": "Hibernia",
+      "expansion": "Shrouded Isles",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 11062,
+        "offsetY": 6378,
+        "width": 24617
+      },
+      "labels": true,
+      "levels": [
+        {
+          "index": 0,
+          "name": "Sublevel",
+          "z": 11150,
+          "depth": 1350
+        },
+        {
+          "index": 1,
+          "name": "Entry Level",
+          "z": 12500,
+          "depth": 1450
+        },
+        {
+          "index": 2,
+          "name": "Level Two",
+          "z": 13950,
+          "depth": 1400
+        },
+        {
+          "index": 3,
+          "name": "Level Three",
+          "z": 15350,
+          "depth": 1750
+        }
+      ]
+    },
+    {
+      "id": "191",
+      "name": "Galladoria",
+      "realm": "Hibernia",
+      "expansion": "Shrouded Isles",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 9793,
+        "offsetY": 18125,
+        "width": 40702
+      },
+      "labels": true
+    },
+    {
+      "id": "192",
+      "name": "The High Consul\u0027s Sanctum",
+      "realm": "Albion",
+      "expansion": "Labyrith Of The Minotaur",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22697,
+        "offsetY": 21562,
+        "width": 4683
+      },
+      "labels": true
+    },
+    {
+      "id": "193",
+      "name": "The High Consul\u0027s Sanctum",
+      "realm": "Midgard",
+      "expansion": "Labyrith Of The Minotaur",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22697,
+        "offsetY": 21562,
+        "width": 4683
+      },
+      "labels": true
+    },
+    {
+      "id": "194",
+      "name": "The High Consul\u0027s Sanctum",
+      "realm": "Hibernia",
+      "expansion": "Labyrith Of The Minotaur",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22697,
+        "offsetY": 21562,
+        "width": 4683
+      },
+      "labels": true
+    },
+    {
+      "id": "195",
+      "name": "Midgard\u0027s Otherworld",
+      "realm": "Midgard",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 10580,
+        "offsetY": 3401,
+        "width": 39606
+      },
+      "labels": true
+    },
+    {
+      "id": "196",
+      "name": "Albion\u0027s Otherworld",
+      "realm": "Albion",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 14478,
+        "offsetY": 5553,
+        "width": 31452
+      },
+      "labels": true
+    },
+    {
+      "id": "197",
+      "name": "The Otherworld",
+      "realm": "Hibernia",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 8532,
+        "offsetY": 6398,
+        "width": 35604
+      },
+      "labels": true
+    },
+    {
+      "id": "198",
+      "name": "Shaitan",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 14637,
+        "offsetY": 22956,
+        "width": 2542
+      },
+      "labels": true
+    },
+    {
+      "id": "199",
+      "name": "Volurgon",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 14484,
+        "offsetY": 19640,
+        "width": 2542
+      },
+      "labels": true
+    },
+    {
+      "id": "200",
+      "name": "Lough Derg",
+      "realm": "Hibernia",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "201",
+      "name": "Silvermine Mts.",
+      "realm": "Hibernia",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "202",
+      "name": "Shannon Estuary",
+      "realm": "Hibernia",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "203",
+      "name": "Cliffs of Moher",
+      "realm": "Hibernia",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "204",
+      "name": "Lough Gur",
+      "realm": "Hibernia",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "205",
+      "name": "Bog of Cullen",
+      "realm": "Hibernia",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "206",
+      "name": "Valley of Bri Leith",
+      "realm": "Hibernia",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "207",
+      "name": "Connacht",
+      "realm": "Hibernia",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "208",
+      "name": "Cursed Forest",
+      "realm": "Hibernia",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "209",
+      "name": "Tir na Nog",
+      "realm": "Hibernia",
+      "expansion": "Classic",
+      "type": "Capitol",
+      "size": 2048,
+      "frame": {
+        "offsetX": 9900,
+        "offsetY": 15750,
+        "width": 17400
+      },
+      "labels": true
+    },
+    {
+      "id": "210",
+      "name": "Mount Collory",
+      "realm": "All Realms",
+      "expansion": "Old Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "211",
+      "name": "Cruachan Gorge",
+      "realm": "All Realms",
+      "expansion": "Old Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "212",
+      "name": "Breifine",
+      "realm": "All Realms",
+      "expansion": "Old Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "213",
+      "name": "Meath",
+      "realm": "Hibernia",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "214",
+      "name": "Emain Macha",
+      "realm": "All Realms",
+      "expansion": "Old Frontiers",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "215",
+      "name": "Dunshire",
+      "realm": "Hibernia",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "216",
+      "name": "Sheeroe Hills",
+      "realm": "Hibernia",
+      "expansion": "Classic",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "217",
+      "name": "Torrylin",
+      "realm": "Hibernia",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "218",
+      "name": "Kilcullen",
+      "realm": "Hibernia",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "219",
+      "name": "Saeranthal",
+      "realm": "Hibernia",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "220",
+      "name": "Coruscating Mine",
+      "realm": "Hibernia",
+      "expansion": "Classic",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 17885,
+        "offsetY": 13632,
+        "width": 13427
+      },
+      "labels": true
+    },
+    {
+      "id": "221",
+      "name": "Muire Tomb",
+      "realm": "Hibernia",
+      "expansion": "Classic",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19546,
+        "offsetY": 18475,
+        "width": 11783
+      },
+      "labels": true
+    },
+    {
+      "id": "222",
+      "name": "Spraggon Den",
+      "realm": "Hibernia",
+      "expansion": "Classic",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 17913,
+        "offsetY": 17347,
+        "width": 12154
+      },
+      "labels": true
+    },
+    {
+      "id": "223",
+      "name": "Koalinth Caverns",
+      "realm": "Hibernia",
+      "expansion": "Classic",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 16610,
+        "offsetY": 16296,
+        "width": 15157
+      },
+      "labels": true
+    },
+    {
+      "id": "224",
+      "name": "Treibh Caillte",
+      "realm": "Hibernia",
+      "expansion": "Classic",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 17452,
+        "offsetY": 16125,
+        "width": 11664
+      },
+      "labels": true
+    },
+    {
+      "id": "225",
+      "name": "Aberillan",
+      "realm": "Hibernia",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "226",
+      "name": "Midgard\u0027s Abandoned Mines",
+      "realm": "Midgard",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 952,
+        "offsetY": 4903,
+        "width": 41705
+      },
+      "labels": true
+    },
+    {
+      "id": "227",
+      "name": "Albion\u0027s Abandoned Mines",
+      "realm": "Albion",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 3066,
+        "offsetY": 4232,
+        "width": 43656
+      },
+      "labels": true
+    },
+    {
+      "id": "228",
+      "name": "Hibernia\u0027s Abandoned Mines",
+      "realm": "Hibernia",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 2056,
+        "offsetY": 1665,
+        "width": 42333
+      },
+      "labels": true
+    },
+    {
+      "id": "229",
+      "name": "Burial Grounds",
+      "realm": "Midgard",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 11005,
+        "offsetY": 1826,
+        "width": 37092
+      },
+      "labels": true
+    },
+    {
+      "id": "233",
+      "name": "Summoner\u0027s Hall",
+      "realm": "All Realms",
+      "expansion": "New Frontiers",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 13562,
+        "offsetY": 15091,
+        "width": 23938
+      },
+      "labels": true
+    },
+    {
+      "id": "234",
+      "name": "The Proving Grounds",
+      "realm": "All Realms",
+      "expansion": "New Frontiers",
+      "type": "Battlegrounds",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "235",
+      "name": "The Lion\u0027s Den",
+      "realm": "All Realms",
+      "expansion": "New Frontiers",
+      "type": "Battlegrounds",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "236",
+      "name": "The Hills of Claret",
+      "realm": "All Realms",
+      "expansion": "New Frontiers",
+      "type": "Battlegrounds",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "237",
+      "name": "Killaloe",
+      "realm": "All Realms",
+      "expansion": "New Frontiers",
+      "type": "Battlegrounds",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "238",
+      "name": "Thidranki",
+      "realm": "All Realms",
+      "expansion": "New Frontiers",
+      "type": "Battlegrounds",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "243",
+      "name": "Kobold Undercity",
+      "realm": "Midgard",
+      "expansion": "Catacombs",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 11991,
+        "offsetY": 11307,
+        "width": 28305
+      },
+      "labels": true
+    },
+    {
+      "id": "244",
+      "name": "Passage of Conflict",
+      "realm": "All Realms",
+      "expansion": "New Frontiers",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 6022,
+        "offsetY": 5176,
+        "width": 42340
+      },
+      "labels": true
+    },
+    {
+      "id": "245",
+      "name": "Hall of the Corrupt",
+      "realm": "All Realms",
+      "expansion": "Labyrith Of The Minotaur",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": -9091,
+        "offsetY": -3139,
+        "width": 62582
+      },
+      "labels": true,
+      "levels": [
+        {
+          "index": 0,
+          "name": "Entry Level",
+          "z": 29930,
+          "depth": 4131
+        },
+        {
+          "index": 1,
+          "name": "Hub Level 1",
+          "z": 28885,
+          "depth": 1045
+        },
+        {
+          "index": 2,
+          "name": "Hub Level 2",
+          "z": 27400,
+          "depth": 1485
+        },
+        {
+          "index": 3,
+          "name": "Hub Level 3",
+          "z": 25250,
+          "depth": 2150
+        },
+        {
+          "index": 4,
+          "name": "Hub Level 4",
+          "z": 20900,
+          "depth": 4350
+        }
+      ]
+    },
+    {
+      "id": "246",
+      "name": "Dodens Gruva",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19697,
+        "offsetY": 17626,
+        "width": 20308
+      },
+      "labels": true
+    },
+    {
+      "id": "247",
+      "name": "Marfach Caverns",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 14892,
+        "offsetY": 19331,
+        "width": 17420
+      },
+      "labels": true
+    },
+    {
+      "id": "248",
+      "name": "Summoner\u0027s Hall",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 14349,
+        "offsetY": 18958,
+        "width": 20964
+      },
+      "labels": true
+    },
+    {
+      "id": "249",
+      "name": "Darkness Falls",
+      "realm": "All Realms",
+      "expansion": "New Frontiers",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 46,
+        "offsetY": 797,
+        "width": 43414
+      },
+      "labels": true,
+      "levels": [
+        {
+          "index": 0,
+          "name": "Map 1",
+          "z": 20801,
+          "depth": 3549
+        },
+        {
+          "index": 1,
+          "name": "Map 2",
+          "z": 19126,
+          "depth": 1675
+        },
+        {
+          "index": 2,
+          "name": "Map 3",
+          "z": 17901,
+          "depth": 1225
+        },
+        {
+          "index": 3,
+          "name": "Map 4",
+          "z": 16701,
+          "depth": 1200
+        },
+        {
+          "index": 4,
+          "name": "Map 5",
+          "z": 14901,
+          "depth": 1800
+        },
+        {
+          "index": 5,
+          "name": "Map 6",
+          "z": 12800,
+          "depth": 2101
+        }
+      ]
+    },
+    {
+      "id": "250",
+      "name": "Caledonia",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "251",
+      "name": "Murdaigean",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "252",
+      "name": "Thidranki",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "253",
+      "name": "Abermenai",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "254",
+      "name": "Leirvik",
+      "realm": "All Realms",
+      "expansion": "New Frontiers",
+      "type": "Battlegrounds",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "256",
+      "name": "Forgotten Mines",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19167,
+        "offsetY": 22655,
+        "width": 7424
+      },
+      "labels": true
+    },
+    {
+      "id": "257",
+      "name": "Forgotten Mines",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 16489,
+        "offsetY": 23082,
+        "width": 10153
+      },
+      "labels": true
+    },
+    {
+      "id": "258",
+      "name": "Forgotten Mines",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20784,
+        "offsetY": 23072,
+        "width": 10691
+      },
+      "labels": true
+    },
+    {
+      "id": "260",
+      "name": "Chiltern",
+      "realm": "Albion",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "261",
+      "name": "Sherborne",
+      "realm": "Albion",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "262",
+      "name": "Stoneleigh",
+      "realm": "Albion",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "266",
+      "name": "Holmestrand",
+      "realm": "Midgard",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "267",
+      "name": "Nittedal",
+      "realm": "Midgard",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "268",
+      "name": "Stavgaard",
+      "realm": "Midgard",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "270",
+      "name": "Kaldrheim",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "271",
+      "name": "Kintyre",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "272",
+      "name": "Tullamore",
+      "realm": "Hibernia",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "273",
+      "name": "Moycullen",
+      "realm": "Hibernia",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "274",
+      "name": "Broughshane",
+      "realm": "Hibernia",
+      "expansion": "Foundations",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "276",
+      "name": "Marfach Caverns",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 14892,
+        "offsetY": 19331,
+        "width": 17420
+      },
+      "labels": true
+    },
+    {
+      "id": "277",
+      "name": "Hall of the Corrupt",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 16218,
+        "offsetY": 22170,
+        "width": 11966
+      },
+      "labels": true
+    },
+    {
+      "id": "278",
+      "name": "Damp Cavern",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19987,
+        "offsetY": 16317,
+        "width": 8225
+      },
+      "labels": true
+    },
+    {
+      "id": "279",
+      "name": "Damp Cavern",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21881,
+        "offsetY": 18192,
+        "width": 6313
+      },
+      "labels": true
+    },
+    {
+      "id": "280",
+      "name": "Damp Cavern",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20017,
+        "offsetY": 18465,
+        "width": 6035
+      },
+      "labels": true
+    },
+    {
+      "id": "281",
+      "name": "Forgotten Sepulchre",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 16250,
+        "offsetY": 17778,
+        "width": 6923
+      },
+      "labels": true
+    },
+    {
+      "id": "282",
+      "name": "Forgotten Sepulchre",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 15629,
+        "offsetY": 18877,
+        "width": 7556
+      },
+      "labels": true
+    },
+    {
+      "id": "283",
+      "name": "Forgotten Sepulchre",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 16020,
+        "offsetY": 19557,
+        "width": 7157
+      },
+      "labels": true
+    },
+    {
+      "id": "284",
+      "name": "Concealed Guardhouse",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19996,
+        "offsetY": 20892,
+        "width": 5125
+      },
+      "labels": true
+    },
+    {
+      "id": "285",
+      "name": "Concealed Guardhouse",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21257,
+        "offsetY": 19454,
+        "width": 6124
+      },
+      "labels": true
+    },
+    {
+      "id": "286",
+      "name": "Concealed Guardhouse",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19689,
+        "offsetY": 20369,
+        "width": 5692
+      },
+      "labels": true
+    },
+    {
+      "id": "287",
+      "name": "The Gossamer Grotto",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19428,
+        "offsetY": 19489,
+        "width": 8758
+      },
+      "labels": true
+    },
+    {
+      "id": "288",
+      "name": "The Gossamer Grotto",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21854,
+        "offsetY": 22210,
+        "width": 6444
+      },
+      "labels": true
+    },
+    {
+      "id": "289",
+      "name": "The Gossamer Grotto",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19469,
+        "offsetY": 22223,
+        "width": 5781
+      },
+      "labels": true
+    },
+    {
+      "id": "290",
+      "name": "Underground Tunnel",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19685,
+        "offsetY": 23266,
+        "width": 6275
+      },
+      "labels": true
+    },
+    {
+      "id": "291",
+      "name": "Underground Tunnel",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22116,
+        "offsetY": 22322,
+        "width": 6148
+      },
+      "labels": true
+    },
+    {
+      "id": "292",
+      "name": "Underground Tunnel",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21017,
+        "offsetY": 19054,
+        "width": 7433
+      },
+      "labels": true
+    },
+    {
+      "id": "293",
+      "name": "Burial Tomb",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 17914,
+        "offsetY": 15164,
+        "width": 6527
+      },
+      "labels": true
+    },
+    {
+      "id": "294",
+      "name": "Burial Tomb",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20416,
+        "offsetY": 19076,
+        "width": 6390
+      },
+      "labels": true
+    },
+    {
+      "id": "295",
+      "name": "Burial Tomb",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 17656,
+        "offsetY": 16317,
+        "width": 6789
+      },
+      "labels": true
+    },
+    {
+      "id": "296",
+      "name": "Desecrated Grounds",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20131,
+        "offsetY": 21155,
+        "width": 4793
+      },
+      "labels": true
+    },
+    {
+      "id": "297",
+      "name": "Desecrated Grounds",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21035,
+        "offsetY": 20530,
+        "width": 7355
+      },
+      "labels": true
+    },
+    {
+      "id": "298",
+      "name": "Desecrated Grounds",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20289,
+        "offsetY": 20844,
+        "width": 4327
+      },
+      "labels": true
+    },
+    {
+      "id": "299",
+      "name": "Old Thidranki",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "300",
+      "name": "Damp Cavern",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 23164,
+        "offsetY": 19875,
+        "width": 4949
+      },
+      "labels": true
+    },
+    {
+      "id": "301",
+      "name": "Damp Cavern",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 17247,
+        "offsetY": 16141,
+        "width": 8055
+      },
+      "labels": true
+    },
+    {
+      "id": "302",
+      "name": "Damp Cavern",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19151,
+        "offsetY": 21746,
+        "width": 6282
+      },
+      "labels": true
+    },
+    {
+      "id": "303",
+      "name": "Damp Cavern",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21438,
+        "offsetY": 21904,
+        "width": 5762
+      },
+      "labels": true
+    },
+    {
+      "id": "304",
+      "name": "Damp Cavern",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21041,
+        "offsetY": 20095,
+        "width": 4764
+      },
+      "labels": true
+    },
+    {
+      "id": "305",
+      "name": "Forgotten Sepulchre",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22721,
+        "offsetY": 22021,
+        "width": 3195
+      },
+      "labels": true
+    },
+    {
+      "id": "306",
+      "name": "Forgotten Sepulchre",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22094,
+        "offsetY": 21972,
+        "width": 3159
+      },
+      "labels": true
+    },
+    {
+      "id": "307",
+      "name": "Forgotten Sepulchre",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21277,
+        "offsetY": 21533,
+        "width": 5059
+      },
+      "labels": true
+    },
+    {
+      "id": "308",
+      "name": "Forgotten Sepulchre",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22202,
+        "offsetY": 21503,
+        "width": 3584
+      },
+      "labels": true
+    },
+    {
+      "id": "309",
+      "name": "Forgotten Sepulchre",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21013,
+        "offsetY": 21378,
+        "width": 3828
+      },
+      "labels": true
+    },
+    {
+      "id": "310",
+      "name": "Concealed Guardhouse",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19363,
+        "offsetY": 19587,
+        "width": 6456
+      },
+      "labels": true
+    },
+    {
+      "id": "311",
+      "name": "Concealed Guardhouse",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21047,
+        "offsetY": 20684,
+        "width": 3728
+      },
+      "labels": true
+    },
+    {
+      "id": "312",
+      "name": "Concealed Guardhouse",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19566,
+        "offsetY": 20630,
+        "width": 5426
+      },
+      "labels": true
+    },
+    {
+      "id": "313",
+      "name": "Concealed Guardhouse",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20816,
+        "offsetY": 18281,
+        "width": 8362
+      },
+      "labels": true
+    },
+    {
+      "id": "314",
+      "name": "Concealed Guardhouse",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22972,
+        "offsetY": 23001,
+        "width": 4421
+      },
+      "labels": true
+    },
+    {
+      "id": "315",
+      "name": "The Gossamer Grotto",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21016,
+        "offsetY": 21236,
+        "width": 5558
+      },
+      "labels": true
+    },
+    {
+      "id": "316",
+      "name": "The Gossamer Grotto",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20921,
+        "offsetY": 22222,
+        "width": 5829
+      },
+      "labels": true
+    },
+    {
+      "id": "317",
+      "name": "The Gossamer Grotto",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20846,
+        "offsetY": 21998,
+        "width": 5666
+      },
+      "labels": true
+    },
+    {
+      "id": "318",
+      "name": "The Gossamer Grotto",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19834,
+        "offsetY": 19009,
+        "width": 7160
+      },
+      "labels": true
+    },
+    {
+      "id": "319",
+      "name": "The Gossamer Grotto",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20816,
+        "offsetY": 18281,
+        "width": 8362
+      },
+      "labels": true
+    },
+    {
+      "id": "320",
+      "name": "Underground Tunnel",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 18951,
+        "offsetY": 23272,
+        "width": 6009
+      },
+      "labels": true
+    },
+    {
+      "id": "321",
+      "name": "Underground Tunnel",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21884,
+        "offsetY": 23250,
+        "width": 5587
+      },
+      "labels": true
+    },
+    {
+      "id": "322",
+      "name": "Underground Tunnel",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19796,
+        "offsetY": 18692,
+        "width": 8156
+      },
+      "labels": true
+    },
+    {
+      "id": "323",
+      "name": "Underground Tunnel",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 23430,
+        "offsetY": 21143,
+        "width": 4498
+      },
+      "labels": true
+    },
+    {
+      "id": "324",
+      "name": "Underground Tunnel",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21603,
+        "offsetY": 18532,
+        "width": 6198
+      },
+      "labels": true
+    },
+    {
+      "id": "325",
+      "name": "Forgotten Tunnels",
+      "realm": "Hibernia",
+      "expansion": "Darkness Rising",
+      "type": "Instances",
+      "size": 2048,
+      "frame": {
+        "offsetX": 817,
+        "offsetY": 912,
+        "width": 12953
+      },
+      "labels": true
+    },
+    {
+      "id": "326",
+      "name": "The Hidden Lair",
+      "realm": "Albion",
+      "expansion": "Darkness Rising",
+      "type": "Instances",
+      "size": 2048,
+      "frame": {
+        "offsetX": 18803,
+        "offsetY": 18886,
+        "width": 13835
+      },
+      "labels": true
+    },
+    {
+      "id": "327",
+      "name": "Caverns of Madness",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 11181,
+        "offsetY": 14515,
+        "width": 16073
+      },
+      "labels": true
+    },
+    {
+      "id": "328",
+      "name": "The Hidden Lair",
+      "realm": "Midgard",
+      "expansion": "Darkness Rising",
+      "type": "Instances",
+      "size": 2048,
+      "frame": {
+        "offsetX": 8481,
+        "offsetY": 14578,
+        "width": 20005
+      },
+      "labels": true
+    },
+    {
+      "id": "329",
+      "name": "Jarlsberg\u0027s Hideout",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20209,
+        "offsetY": 14361,
+        "width": 17124
+      },
+      "labels": true
+    },
+    {
+      "id": "330",
+      "name": "The Foothills of Albion",
+      "realm": "Albion",
+      "expansion": "Darkness Rising",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "331",
+      "name": "Thieves Den",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 11862,
+        "offsetY": 7862,
+        "width": 22291
+      },
+      "labels": true
+    },
+    {
+      "id": "332",
+      "name": "Rebel Half Orc Lair",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 2035,
+        "offsetY": -1245,
+        "width": 35573
+      },
+      "labels": true
+    },
+    {
+      "id": "333",
+      "name": "The Haunted Halls",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 11005,
+        "offsetY": 1826,
+        "width": 37092
+      },
+      "labels": true
+    },
+    {
+      "id": "334",
+      "name": "The Foothills of Midgard",
+      "realm": "Midgard",
+      "expansion": "Darkness Rising",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "335",
+      "name": "The Foothills of Hibernia",
+      "realm": "Hibernia",
+      "expansion": "Darkness Rising",
+      "type": "Outdoor",
+      "size": 2048,
+      "labels": true
+    },
+    {
+      "id": "336",
+      "name": "Demonic Prison",
+      "realm": "Albion",
+      "expansion": "Darkness Rising",
+      "type": "Instances",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20873,
+        "offsetY": 10940,
+        "width": 25136
+      },
+      "labels": true
+    },
+    {
+      "id": "337",
+      "name": "Demonic Prison",
+      "realm": "Midgard",
+      "expansion": "Darkness Rising",
+      "type": "Instances",
+      "size": 2048,
+      "frame": {
+        "offsetX": 17982,
+        "offsetY": 5272,
+        "width": 30917
+      },
+      "labels": true
+    },
+    {
+      "id": "338",
+      "name": "Demonic Prison",
+      "realm": "Hibernia",
+      "expansion": "Darkness Rising",
+      "type": "Instances",
+      "size": 2048,
+      "frame": {
+        "offsetX": 2745,
+        "offsetY": 2615,
+        "width": 41786
+      },
+      "labels": true
+    },
+    {
+      "id": "339",
+      "name": "Brimstone Caverns",
+      "realm": "Albion",
+      "expansion": "Darkness Rising",
+      "type": "Instances",
+      "size": 2048,
+      "frame": {
+        "offsetX": 1738,
+        "offsetY": -3856,
+        "width": 45443
+      },
+      "labels": true
+    },
+    {
+      "id": "340",
+      "name": "Halls of Helgardh",
+      "realm": "Midgard",
+      "expansion": "Darkness Rising",
+      "type": "Instances",
+      "size": 2048,
+      "frame": {
+        "offsetX": 4479,
+        "offsetY": 1452,
+        "width": 34115
+      },
+      "labels": true
+    },
+    {
+      "id": "341",
+      "name": "Cave of Cruachan",
+      "realm": "Hibernia",
+      "expansion": "Darkness Rising",
+      "type": "Instances",
+      "size": 2048,
+      "frame": {
+        "offsetX": 4373,
+        "offsetY": 4140,
+        "width": 39408
+      },
+      "labels": true
+    },
+    {
+      "id": "342",
+      "name": "Mid Launch 2",
+      "realm": "Hibernia",
+      "expansion": "Tutorial",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22773,
+        "offsetY": 23260,
+        "width": 4819
+      },
+      "labels": true
+    },
+    {
+      "id": "343",
+      "name": "Alb Launch 2",
+      "realm": "Albion",
+      "expansion": "Tutorial",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 18336,
+        "offsetY": 19165,
+        "width": 10942
+      },
+      "labels": true
+    },
+    {
+      "id": "344",
+      "name": "Hib Launch 2",
+      "realm": "Midgard",
+      "expansion": "Tutorial",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20971,
+        "offsetY": 20846,
+        "width": 5921
+      },
+      "labels": true
+    },
+    {
+      "id": "345",
+      "name": "Tomte Prison",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 15442,
+        "offsetY": 22528,
+        "width": 15704
+      },
+      "labels": true
+    },
+    {
+      "id": "346",
+      "name": "Nisse\u0027s Retreat",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 14942,
+        "offsetY": 19049,
+        "width": 11663
+      },
+      "labels": true
+    },
+    {
+      "id": "347",
+      "name": "Lair of the Demon Lord",
+      "realm": "Albion",
+      "expansion": "Darkness Rising",
+      "type": "Instances",
+      "size": 2048,
+      "frame": {
+        "offsetX": -338,
+        "offsetY": 4197,
+        "width": 47982
+      },
+      "labels": true
+    },
+    {
+      "id": "348",
+      "name": "The Baron\u0027s Gaol",
+      "realm": "Albion",
+      "expansion": "Darkness Rising",
+      "type": "Instances",
+      "size": 2048,
+      "frame": {
+        "offsetX": 755,
+        "offsetY": 11466,
+        "width": 12750
+      },
+      "labels": true
+    },
+    {
+      "id": "349",
+      "name": "Lios\u0027s Eternal Rest",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19998,
+        "offsetY": 21932,
+        "width": 8463
+      },
+      "labels": true
+    },
+    {
+      "id": "350",
+      "name": "Liche\u0027s Unrest",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 18742,
+        "offsetY": 20057,
+        "width": 12082
+      },
+      "labels": true
+    },
+    {
+      "id": "351",
+      "name": "Nephraal s Gaol",
+      "realm": "Midgard",
+      "expansion": "Darkness Rising",
+      "type": "Instances",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22117,
+        "offsetY": 16188,
+        "width": 8499
+      },
+      "labels": true
+    },
+    {
+      "id": "352",
+      "name": "Morfesa s Gaol",
+      "realm": "Hibernia",
+      "expansion": "Darkness Rising",
+      "type": "Instances",
+      "size": 2048,
+      "frame": {
+        "offsetX": 15576,
+        "offsetY": 15971,
+        "width": 10061
+      },
+      "labels": true
+    },
+    {
+      "id": "353",
+      "name": "Den of Bones",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 18753,
+        "offsetY": 22919,
+        "width": 14063
+      },
+      "labels": true
+    },
+    {
+      "id": "354",
+      "name": "The Lost Burrow",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22020,
+        "offsetY": 11251,
+        "width": 20885
+      },
+      "labels": true
+    },
+    {
+      "id": "355",
+      "name": "Tethra\u0027s Stronghold",
+      "realm": "Hibernia",
+      "expansion": "Darkness Rising",
+      "type": "Instances",
+      "size": 2048,
+      "frame": {
+        "offsetX": 14780,
+        "offsetY": 12625,
+        "width": 13221
+      },
+      "labels": true
+    },
+    {
+      "id": "356",
+      "name": "Barrow of the Restless Dead",
+      "realm": "Albion",
+      "expansion": "Darkness Rising",
+      "type": "Instances",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20524,
+        "offsetY": 23605,
+        "width": 10575
+      },
+      "labels": true
+    },
+    {
+      "id": "357",
+      "name": "The Cursed Lair",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19480,
+        "offsetY": 17240,
+        "width": 10144
+      },
+      "labels": true
+    },
+    {
+      "id": "358",
+      "name": "The Burrow",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 17098,
+        "offsetY": 17824,
+        "width": 9741
+      },
+      "labels": true
+    },
+    {
+      "id": "359",
+      "name": "Red Dagger Hideout",
+      "realm": "Midgard",
+      "expansion": "Darkness Rising",
+      "type": "Instances",
+      "size": 2048,
+      "frame": {
+        "offsetX": 12153,
+        "offsetY": 8541,
+        "width": 17385
+      },
+      "labels": true
+    },
+    {
+      "id": "360",
+      "name": "Eirik\u0027s Throne Room",
+      "realm": "Midgard",
+      "expansion": "Darkness Rising",
+      "type": "Instances",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21188,
+        "offsetY": 22143,
+        "width": 5907
+      },
+      "labels": true
+    },
+    {
+      "id": "361",
+      "name": "Arachnid\u0027s Labyrinth",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 16855,
+        "offsetY": 19983,
+        "width": 17315
+      },
+      "labels": true
+    },
+    {
+      "id": "362",
+      "name": "The Master\u0027s Lair",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21000,
+        "offsetY": 21920,
+        "width": 11193
+      },
+      "labels": true
+    },
+    {
+      "id": "363",
+      "name": "Anataeus\u0027 Sanctuary",
+      "realm": "Albion",
+      "expansion": "Darkness Rising",
+      "type": "Instances",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21819,
+        "offsetY": 20919,
+        "width": 3961
+      },
+      "labels": true
+    },
+    {
+      "id": "364",
+      "name": "Keeper Iraeda\u0027s Sanctuary",
+      "realm": "Midgard",
+      "expansion": "Darkness Rising",
+      "type": "Instances",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21819,
+        "offsetY": 20919,
+        "width": 3961
+      },
+      "labels": true
+    },
+    {
+      "id": "365",
+      "name": "Bandit Lair",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21871,
+        "offsetY": 21658,
+        "width": 4835
+      },
+      "labels": true
+    },
+    {
+      "id": "366",
+      "name": "Gnoll Lair",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21871,
+        "offsetY": 21658,
+        "width": 4835
+      },
+      "labels": true
+    },
+    {
+      "id": "367",
+      "name": "Vandr\u0027s Bane",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22786,
+        "offsetY": 21911,
+        "width": 3812
+      },
+      "labels": true
+    },
+    {
+      "id": "368",
+      "name": "Past and Present",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22154,
+        "offsetY": 23054,
+        "width": 3307
+      },
+      "labels": true
+    },
+    {
+      "id": "369",
+      "name": "Half-Orc Camp",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20390,
+        "offsetY": 20420,
+        "width": 5257
+      },
+      "labels": true
+    },
+    {
+      "id": "370",
+      "name": "Brutal Realization",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21871,
+        "offsetY": 21658,
+        "width": 4835
+      },
+      "labels": true
+    },
+    {
+      "id": "371",
+      "name": "History Repeats Itself",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20248,
+        "offsetY": 21413,
+        "width": 5318
+      },
+      "labels": true
+    },
+    {
+      "id": "372",
+      "name": "Hounds of Arawn",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19330,
+        "offsetY": 21291,
+        "width": 6254
+      },
+      "labels": true
+    },
+    {
+      "id": "373",
+      "name": "Passage of Echoes",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 23102,
+        "offsetY": 18500,
+        "width": 18194
+      },
+      "labels": true
+    },
+    {
+      "id": "374",
+      "name": "Unrestful Tomb",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 18562,
+        "offsetY": 17413,
+        "width": 12353
+      },
+      "labels": true
+    },
+    {
+      "id": "375",
+      "name": "Lost Passages",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 9938,
+        "offsetY": 20917,
+        "width": 26850
+      },
+      "labels": true
+    },
+    {
+      "id": "376",
+      "name": "Goblin\u0027s Cookery",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 16597,
+        "offsetY": 23299,
+        "width": 18313
+      },
+      "labels": true
+    },
+    {
+      "id": "377",
+      "name": "The Beastmaster\u0027s Den",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 16632,
+        "offsetY": 22110,
+        "width": 20803
+      },
+      "labels": true
+    },
+    {
+      "id": "378",
+      "name": "Keeper Garran\u0027s Sanctuary",
+      "realm": "Hibernia",
+      "expansion": "Darkness Rising",
+      "type": "Instances",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21819,
+        "offsetY": 20919,
+        "width": 3961
+      },
+      "labels": true
+    },
+    {
+      "id": "379",
+      "name": "The Funerary Hall",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 18434,
+        "offsetY": 20546,
+        "width": 6523
+      },
+      "labels": true
+    },
+    {
+      "id": "380",
+      "name": "Lair of Doom",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 15116,
+        "offsetY": 5783,
+        "width": 18389
+      },
+      "labels": true
+    },
+    {
+      "id": "381",
+      "name": "The Arena",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22935,
+        "offsetY": 14290,
+        "width": 18139
+      },
+      "labels": true
+    },
+    {
+      "id": "382",
+      "name": "The Funerary Hall",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19104,
+        "offsetY": 22746,
+        "width": 4938
+      },
+      "labels": true
+    },
+    {
+      "id": "383",
+      "name": "The Funerary Hall",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 18973,
+        "offsetY": 19735,
+        "width": 5071
+      },
+      "labels": true
+    },
+    {
+      "id": "384",
+      "name": "The Ritual Hall",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21943,
+        "offsetY": 17617,
+        "width": 13101
+      },
+      "labels": true
+    },
+    {
+      "id": "385",
+      "name": "The Betrayer\u0027s Den",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19914,
+        "offsetY": 19979,
+        "width": 9385
+      },
+      "labels": true
+    },
+    {
+      "id": "386",
+      "name": "the Sundered Tombs",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22496,
+        "offsetY": 20746,
+        "width": 6069
+      },
+      "labels": true
+    },
+    {
+      "id": "387",
+      "name": "the Sundered Tombs",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 16920,
+        "offsetY": 17165,
+        "width": 7544
+      },
+      "labels": true
+    },
+    {
+      "id": "388",
+      "name": "the Sundered Tombs",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19454,
+        "offsetY": 14874,
+        "width": 6118
+      },
+      "labels": true
+    },
+    {
+      "id": "389",
+      "name": "Shafts of the Tenebrae",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19831,
+        "offsetY": 18452,
+        "width": 10730
+      },
+      "labels": true
+    },
+    {
+      "id": "390",
+      "name": "Lair of the Exiled",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 5577,
+        "offsetY": 7275,
+        "width": 31365
+      },
+      "labels": true
+    },
+    {
+      "id": "391",
+      "name": "Arcane Tower",
+      "realm": "Albion",
+      "expansion": "Labyrith Of The Minotaur",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 18509,
+        "offsetY": 21725,
+        "width": 8942
+      },
+      "labels": true
+    },
+    {
+      "id": "392",
+      "name": "The Hall of Reawakening",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20259,
+        "offsetY": 16543,
+        "width": 9730
+      },
+      "labels": true
+    },
+    {
+      "id": "393",
+      "name": "The Hidden Crypt",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 16574,
+        "offsetY": 17737,
+        "width": 9463
+      },
+      "labels": true
+    },
+    {
+      "id": "394",
+      "name": "Constantine\u0027s Throne Room",
+      "realm": "Albion",
+      "expansion": "Darkness Rising",
+      "type": "Instances",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21863,
+        "offsetY": 23428,
+        "width": 4554
+      },
+      "labels": true
+    },
+    {
+      "id": "395",
+      "name": "Lamfhotas\u0027 Throne Room",
+      "realm": "Hibernia",
+      "expansion": "Darkness Rising",
+      "type": "Instances",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21954,
+        "offsetY": 23438,
+        "width": 4375
+      },
+      "labels": true
+    },
+    {
+      "id": "396",
+      "name": "Depths of Despair",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 17643,
+        "offsetY": 18730,
+        "width": 10995
+      },
+      "labels": true
+    },
+    {
+      "id": "397",
+      "name": "the Realm of the Damned",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19571,
+        "offsetY": 17623,
+        "width": 14168
+      },
+      "labels": true
+    },
+    {
+      "id": "398",
+      "name": "Arcane Tower",
+      "realm": "Midgard",
+      "expansion": "Labyrith Of The Minotaur",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 18830,
+        "offsetY": 21724,
+        "width": 8948
+      },
+      "labels": true
+    },
+    {
+      "id": "399",
+      "name": "Arcane Tower",
+      "realm": "Hibernia",
+      "expansion": "Labyrith Of The Minotaur",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 18949,
+        "offsetY": 21724,
+        "width": 8959
+      },
+      "labels": true
+    },
+    {
+      "id": "400",
+      "name": "Burial Tomb",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20290,
+        "offsetY": 18060,
+        "width": 6001
+      },
+      "labels": true
+    },
+    {
+      "id": "401",
+      "name": "Burial Tomb",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22127,
+        "offsetY": 21952,
+        "width": 2695
+      },
+      "labels": true
+    },
+    {
+      "id": "402",
+      "name": "Burial Tomb",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21568,
+        "offsetY": 22472,
+        "width": 3710
+      },
+      "labels": true
+    },
+    {
+      "id": "403",
+      "name": "Burial Tomb",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22700,
+        "offsetY": 22830,
+        "width": 3490
+      },
+      "labels": true
+    },
+    {
+      "id": "404",
+      "name": "Burial Tomb",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22507,
+        "offsetY": 22446,
+        "width": 3998
+      },
+      "labels": true
+    },
+    {
+      "id": "405",
+      "name": "Desecrated Grounds",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20123,
+        "offsetY": 21351,
+        "width": 4593
+      },
+      "labels": true
+    },
+    {
+      "id": "406",
+      "name": "Desecrated Grounds",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22604,
+        "offsetY": 20576,
+        "width": 4952
+      },
+      "labels": true
+    },
+    {
+      "id": "407",
+      "name": "Desecrated Grounds",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20468,
+        "offsetY": 21312,
+        "width": 3903
+      },
+      "labels": true
+    },
+    {
+      "id": "408",
+      "name": "Desecrated Grounds",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22978,
+        "offsetY": 22409,
+        "width": 4108
+      },
+      "labels": true
+    },
+    {
+      "id": "409",
+      "name": "Desecrated Grounds",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22461,
+        "offsetY": 22388,
+        "width": 4375
+      },
+      "labels": true
+    },
+    {
+      "id": "410",
+      "name": "Forgotten Mines",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19851,
+        "offsetY": 22757,
+        "width": 6570
+      },
+      "labels": true
+    },
+    {
+      "id": "411",
+      "name": "Forgotten Mines",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21935,
+        "offsetY": 21482,
+        "width": 6304
+      },
+      "labels": true
+    },
+    {
+      "id": "412",
+      "name": "Forgotten Mines",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20355,
+        "offsetY": 21625,
+        "width": 6017
+      },
+      "labels": true
+    },
+    {
+      "id": "413",
+      "name": "Forgotten Mines",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21628,
+        "offsetY": 23725,
+        "width": 3748
+      },
+      "labels": true
+    },
+    {
+      "id": "414",
+      "name": "Forgotten Mines",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 23100,
+        "offsetY": 22401,
+        "width": 5627
+      },
+      "labels": true
+    },
+    {
+      "id": "415",
+      "name": "The Funerary Hall",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22416,
+        "offsetY": 20502,
+        "width": 5458
+      },
+      "labels": true
+    },
+    {
+      "id": "416",
+      "name": "The Funerary Hall",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19887,
+        "offsetY": 21737,
+        "width": 4139
+      },
+      "labels": true
+    },
+    {
+      "id": "417",
+      "name": "The Funerary Hall",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 23104,
+        "offsetY": 21491,
+        "width": 3078
+      },
+      "labels": true
+    },
+    {
+      "id": "418",
+      "name": "The Funerary Hall",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21002,
+        "offsetY": 19284,
+        "width": 5857
+      },
+      "labels": true
+    },
+    {
+      "id": "419",
+      "name": "The Funerary Hall",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20654,
+        "offsetY": 21419,
+        "width": 4393
+      },
+      "labels": true
+    },
+    {
+      "id": "420",
+      "name": "the Sundered Tombs",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 23450,
+        "offsetY": 22744,
+        "width": 3611
+      },
+      "labels": true
+    },
+    {
+      "id": "421",
+      "name": "the Sundered Tombs",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 18384,
+        "offsetY": 17830,
+        "width": 11163
+      },
+      "labels": true
+    },
+    {
+      "id": "422",
+      "name": "the Sundered Tombs",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 17589,
+        "offsetY": 13407,
+        "width": 13919
+      },
+      "labels": true
+    },
+    {
+      "id": "423",
+      "name": "the Sundered Tombs",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 12861,
+        "offsetY": 15367,
+        "width": 21003
+      },
+      "labels": true
+    },
+    {
+      "id": "424",
+      "name": "the Sundered Tombs",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 11479,
+        "offsetY": -8225,
+        "width": 61740
+      },
+      "labels": true
+    },
+    {
+      "id": "425",
+      "name": "The Lost Wing",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 9168,
+        "offsetY": 14286,
+        "width": 15317
+      },
+      "labels": true
+    },
+    {
+      "id": "426",
+      "name": "Deliah\u0027s Sanctuary",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 7852,
+        "offsetY": 13711,
+        "width": 16801
+      },
+      "labels": true
+    },
+    {
+      "id": "427",
+      "name": "The Cursed Barrow",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19620,
+        "offsetY": 21414,
+        "width": 4530
+      },
+      "labels": true
+    },
+    {
+      "id": "428",
+      "name": "The Cursed Barrow",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19358,
+        "offsetY": 21278,
+        "width": 5059
+      },
+      "labels": true
+    },
+    {
+      "id": "429",
+      "name": "Snyblem\u0027s Lair",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 14716,
+        "offsetY": 16873,
+        "width": 15668
+      },
+      "labels": true
+    },
+    {
+      "id": "430",
+      "name": "the Plutonian Shore",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 14702,
+        "offsetY": 17759,
+        "width": 16411
+      },
+      "labels": true
+    },
+    {
+      "id": "431",
+      "name": "The Cursed Barrow",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19865,
+        "offsetY": 21273,
+        "width": 5325
+      },
+      "labels": true
+    },
+    {
+      "id": "432",
+      "name": "Dismal Grotto",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20285,
+        "offsetY": 23156,
+        "width": 6328
+      },
+      "labels": true
+    },
+    {
+      "id": "433",
+      "name": "Snarg\u0027s Grotto",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 12165,
+        "offsetY": 11282,
+        "width": 27449
+      },
+      "labels": true
+    },
+    {
+      "id": "434",
+      "name": "Maze of Tribulation",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 11482,
+        "offsetY": 20688,
+        "width": 16030
+      },
+      "labels": true
+    },
+    {
+      "id": "435",
+      "name": "The Smelting Pot",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20765,
+        "offsetY": 20173,
+        "width": 10381
+      },
+      "labels": true
+    },
+    {
+      "id": "436",
+      "name": "Forges of Flame",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19831,
+        "offsetY": 18452,
+        "width": 10730
+      },
+      "labels": true
+    },
+    {
+      "id": "437",
+      "name": "Hammer Hugak\u0027s Smithy",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21553,
+        "offsetY": 20591,
+        "width": 10730
+      },
+      "labels": true
+    },
+    {
+      "id": "438",
+      "name": "the Goblin Workshop",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21527,
+        "offsetY": 17027,
+        "width": 12059
+      },
+      "labels": true
+    },
+    {
+      "id": "439",
+      "name": "Wolak\u0027s Crucible",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 16417,
+        "offsetY": 17113,
+        "width": 13501
+      },
+      "labels": true
+    },
+    {
+      "id": "440",
+      "name": "Marik\u0027s Workroom",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 18516,
+        "offsetY": 20085,
+        "width": 9082
+      },
+      "labels": true
+    },
+    {
+      "id": "441",
+      "name": "Dismal Grotto",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20223,
+        "offsetY": 23128,
+        "width": 7757
+      },
+      "labels": true
+    },
+    {
+      "id": "442",
+      "name": "The Steward\u0027s Crypt",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 13472,
+        "offsetY": 18016,
+        "width": 11581
+      },
+      "labels": true
+    },
+    {
+      "id": "443",
+      "name": "Serf\u0027s Folly",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 18341,
+        "offsetY": 23591,
+        "width": 10675
+      },
+      "labels": true
+    },
+    {
+      "id": "444",
+      "name": "Dismal Grotto",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 14129,
+        "offsetY": 9261,
+        "width": 22032
+      },
+      "labels": true
+    },
+    {
+      "id": "445",
+      "name": "Dark Cavern",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 3005,
+        "offsetY": 11558,
+        "width": 41713
+      },
+      "labels": true
+    },
+    {
+      "id": "446",
+      "name": "Blathnait\u0027s Refuge",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 2086,
+        "offsetY": 481,
+        "width": 32946
+      },
+      "labels": true
+    },
+    {
+      "id": "447",
+      "name": "Broken Mirrors",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 3970,
+        "offsetY": 798,
+        "width": 27141
+      },
+      "labels": true
+    },
+    {
+      "id": "448",
+      "name": "Dark Cavern",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21789,
+        "offsetY": 21979,
+        "width": 5059
+      },
+      "labels": true
+    },
+    {
+      "id": "449",
+      "name": "Dark Cavern",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20866,
+        "offsetY": 19326,
+        "width": 8338
+      },
+      "labels": true
+    },
+    {
+      "id": "450",
+      "name": "The Cursed Barrow",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20523,
+        "offsetY": 21421,
+        "width": 4260
+      },
+      "labels": true
+    },
+    {
+      "id": "451",
+      "name": "The Cursed Barrow",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21678,
+        "offsetY": 20911,
+        "width": 3606
+      },
+      "labels": true
+    },
+    {
+      "id": "452",
+      "name": "The Cursed Barrow",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20709,
+        "offsetY": 21934,
+        "width": 4002
+      },
+      "labels": true
+    },
+    {
+      "id": "453",
+      "name": "The Cursed Barrow",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21959,
+        "offsetY": 21572,
+        "width": 3073
+      },
+      "labels": true
+    },
+    {
+      "id": "454",
+      "name": "The Cursed Barrow",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21431,
+        "offsetY": 21943,
+        "width": 3727
+      },
+      "labels": true
+    },
+    {
+      "id": "455",
+      "name": "Dismal Grotto",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21716,
+        "offsetY": 23181,
+        "width": 5026
+      },
+      "labels": true
+    },
+    {
+      "id": "456",
+      "name": "Dismal Grotto",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 23202,
+        "offsetY": 21496,
+        "width": 4419
+      },
+      "labels": true
+    },
+    {
+      "id": "457",
+      "name": "Dismal Grotto",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20798,
+        "offsetY": 19705,
+        "width": 5505
+      },
+      "labels": true
+    },
+    {
+      "id": "458",
+      "name": "Dismal Grotto",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22296,
+        "offsetY": 20870,
+        "width": 4465
+      },
+      "labels": true
+    },
+    {
+      "id": "459",
+      "name": "Dismal Grotto",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19631,
+        "offsetY": 22917,
+        "width": 5919
+      },
+      "labels": true
+    },
+    {
+      "id": "460",
+      "name": "The Accursed Caves",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 23155,
+        "offsetY": 20979,
+        "width": 5400
+      },
+      "labels": true
+    },
+    {
+      "id": "461",
+      "name": "The Accursed Caves",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22492,
+        "offsetY": 20815,
+        "width": 5424
+      },
+      "labels": true
+    },
+    {
+      "id": "462",
+      "name": "The Accursed Caves",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21859,
+        "offsetY": 21080,
+        "width": 6198
+      },
+      "labels": true
+    },
+    {
+      "id": "463",
+      "name": "The Accursed Caves",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 18439,
+        "offsetY": 21481,
+        "width": 4415
+      },
+      "labels": true
+    },
+    {
+      "id": "464",
+      "name": "The Accursed Caves",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20019,
+        "offsetY": 21776,
+        "width": 7237
+      },
+      "labels": true
+    },
+    {
+      "id": "465",
+      "name": "Dark Cavern",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21668,
+        "offsetY": 22680,
+        "width": 4045
+      },
+      "labels": true
+    },
+    {
+      "id": "466",
+      "name": "Dark Cavern",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22903,
+        "offsetY": 22711,
+        "width": 3728
+      },
+      "labels": true
+    },
+    {
+      "id": "467",
+      "name": "Dark Cavern",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22346,
+        "offsetY": 22458,
+        "width": 3946
+      },
+      "labels": true
+    },
+    {
+      "id": "468",
+      "name": "Dark Cavern",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20617,
+        "offsetY": 21937,
+        "width": 5376
+      },
+      "labels": true
+    },
+    {
+      "id": "469",
+      "name": "Dark Cavern",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21068,
+        "offsetY": 21029,
+        "width": 5379
+      },
+      "labels": true
+    },
+    {
+      "id": "470",
+      "name": "Half Orc Command Post",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21871,
+        "offsetY": 21658,
+        "width": 4835
+      },
+      "labels": true
+    },
+    {
+      "id": "471",
+      "name": "Unused Mine",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22758,
+        "offsetY": 21642,
+        "width": 5169
+      },
+      "labels": true
+    },
+    {
+      "id": "472",
+      "name": "Unused Mine",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19774,
+        "offsetY": 21382,
+        "width": 5361
+      },
+      "labels": true
+    },
+    {
+      "id": "473",
+      "name": "Unused Mine",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 23546,
+        "offsetY": 22757,
+        "width": 6027
+      },
+      "labels": true
+    },
+    {
+      "id": "474",
+      "name": "Unused Mine",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 21629,
+        "offsetY": 21104,
+        "width": 5457
+      },
+      "labels": true
+    },
+    {
+      "id": "475",
+      "name": "Rise of the Spraggons",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19457,
+        "offsetY": 21190,
+        "width": 9212
+      },
+      "labels": true
+    },
+    {
+      "id": "476",
+      "name": "The Warrens",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 18431,
+        "offsetY": 22195,
+        "width": 8192
+      },
+      "labels": true
+    },
+    {
+      "id": "477",
+      "name": "The Accursed Caves",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20605,
+        "offsetY": 20605,
+        "width": 4867
+      },
+      "labels": true
+    },
+    {
+      "id": "478",
+      "name": "The Accursed Caves",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22631,
+        "offsetY": 22257,
+        "width": 6014
+      },
+      "labels": true
+    },
+    {
+      "id": "479",
+      "name": "The Ancient\u0027s Retreat",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 17037,
+        "offsetY": 14204,
+        "width": 11647
+      },
+      "labels": true
+    },
+    {
+      "id": "480",
+      "name": "The Shaman\u0027s Inner Sanctum",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 15459,
+        "offsetY": 19188,
+        "width": 11370
+      },
+      "labels": true
+    },
+    {
+      "id": "481",
+      "name": "The Accursed Caves",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19972,
+        "offsetY": 21073,
+        "width": 7103
+      },
+      "labels": true
+    },
+    {
+      "id": "482",
+      "name": "Unused Mine",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 18710,
+        "offsetY": 20950,
+        "width": 7890
+      },
+      "labels": true
+    },
+    {
+      "id": "483",
+      "name": "The Brawler\u0027s Den",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 18916,
+        "offsetY": 13621,
+        "width": 10504
+      },
+      "labels": true
+    },
+    {
+      "id": "484",
+      "name": "Felena\u0027s Sorrow",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 15160,
+        "offsetY": 23411,
+        "width": 10620
+      },
+      "labels": true
+    },
+    {
+      "id": "485",
+      "name": "Unused Mine",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 8004,
+        "offsetY": -2648,
+        "width": 41993
+      },
+      "labels": true
+    },
+    {
+      "id": "486",
+      "name": "Unused Mine",
+      "type": "Indoor",
+      "size": 2048,
+      "frame": {
+        "offsetX": 7592,
+        "offsetY": 3235,
+        "width": 43449
+      },
+      "labels": true
+    },
+    {
+      "id": "487",
+      "name": "The Pit of Despair",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 9637,
+        "offsetY": 22239,
+        "width": 26804
+      },
+      "labels": true
+    },
+    {
+      "id": "488",
+      "name": "The Forgotten Vein",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22275,
+        "offsetY": 17700,
+        "width": 12215
+      },
+      "labels": true
+    },
+    {
+      "id": "489",
+      "name": "Demons\u0027 Breach",
+      "realm": "All Realms",
+      "expansion": "New Frontiers",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 5225,
+        "offsetY": 20217,
+        "width": 27836
+      },
+      "labels": true,
+      "levels": [
+        {
+          "index": 0,
+          "name": "Balban\u0027s Breach",
+          "z": 25000,
+          "depth": 4000
+        },
+        {
+          "index": 1,
+          "name": "Nergal\u0027s Breach",
+          "z": 13500,
+          "depth": 4000
+        }
+      ]
+    },
+    {
+      "id": "491",
+      "name": "Maze of Madness",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 13837,
+        "offsetY": 19989,
+        "width": 17490
+      },
+      "labels": true
+    },
+    {
+      "id": "492",
+      "name": "the Shattered Lands",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 12894,
+        "offsetY": 22825,
+        "width": 21234
+      },
+      "labels": true
+    },
+    {
+      "id": "494",
+      "name": "the Gnolls Den",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 19571,
+        "offsetY": 17623,
+        "width": 14168
+      },
+      "labels": true
+    },
+    {
+      "id": "495",
+      "name": "Inner Sanctum",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 17996,
+        "offsetY": 19422,
+        "width": 10289
+      },
+      "labels": true
+    },
+    {
+      "id": "496",
+      "name": "the Deep",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 24704,
+        "offsetY": 14041,
+        "width": 19008
+      },
+      "labels": true
+    },
+    {
+      "id": "497",
+      "name": "Mid Launch",
+      "realm": "Hibernia",
+      "expansion": "Tutorial",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 22773,
+        "offsetY": 23260,
+        "width": 4819
+      },
+      "labels": true
+    },
+    {
+      "id": "498",
+      "name": "Alb Launch",
+      "realm": "Albion",
+      "expansion": "Tutorial",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 18336,
+        "offsetY": 19165,
+        "width": 10942
+      },
+      "labels": true
+    },
+    {
+      "id": "499",
+      "name": "Hib Launch",
+      "realm": "Midgard",
+      "expansion": "Tutorial",
+      "type": "Dungeons",
+      "size": 2048,
+      "frame": {
+        "offsetX": 20971,
+        "offsetY": 20846,
+        "width": 5921
+      },
+      "labels": true
+    }
+  ]
+}

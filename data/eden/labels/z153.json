@@ -1,0 +1,23 @@
+{
+  "zone": "153",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Gripklosa Mountains",
+      "x": 0,
+      "y": 0.375,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Faraheim",
+      "x": 0.625,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "zone": "255",
+  "labels": [
+    {
+      "kind": "entrance",
+      "text": "Camelot City",
+      "x": 0.047698974609375,
+      "y": 0.4381103515625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Darkness Falls",
+      "x": 0.77606201171875,
+      "y": 0.80657958984375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Tomb of Mithra",
+      "x": 0.8316650390625,
+      "y": 0.60589599609375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

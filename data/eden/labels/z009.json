@@ -1,0 +1,68 @@
+{
+  "zone": "009",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Cornwall",
+      "x": 0,
+      "y": 0.625,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Campacorentin Forest",
+      "x": 1,
+      "y": 0.25,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "boss",
+      "text": "Khizan",
+      "x": 0.775146484375,
+      "y": 0.067138671875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.67291259765625,
+      "y": 0.27923583984375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.82855224609375,
+      "y": 0.213623046875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Adribard\u0027s Retreat",
+      "x": 0.811553955078125,
+      "y": 0.247039794921875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Caer Witrin",
+      "x": 0.2803192138671875,
+      "y": 0.56591796875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

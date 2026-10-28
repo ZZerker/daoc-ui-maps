@@ -1,0 +1,95 @@
+{
+  "zone": "084",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Oceanus Anatole",
+      "x": 0,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Ashen Isles",
+      "x": 1,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "boss",
+      "text": "Afrit",
+      "x": 0.21514892578125,
+      "y": 0.213623046875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Master Afrit",
+      "x": 0.250244140625,
+      "y": 0.103759765625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "A Flask",
+      "x": 0.96893310546875,
+      "y": 0.46844482421875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Maddening Scalars",
+      "x": 0.1220703125,
+      "y": 0.68359375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Malice\u0027s Axe",
+      "x": 0.70037841796875,
+      "y": 0.341796875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Ring of Fire",
+      "x": 0.59967041015625,
+      "y": 0.1373291015625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Snatcher",
+      "x": 0.69122314453125,
+      "y": 0.47607421875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Tartaros\u0027 Gift",
+      "x": 0.1800537109375,
+      "y": 0.7659912109375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

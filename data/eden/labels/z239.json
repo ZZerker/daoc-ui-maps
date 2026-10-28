@@ -1,0 +1,14 @@
+{
+  "zone": "239",
+  "labels": [
+    {
+      "kind": "keep",
+      "text": "Dun Braemar",
+      "x": 0.4287872314453125,
+      "y": 0.5164794921875,
+      "priority": 1,
+      "realm": 3,
+      "edge": null
+    }
+  ]
+}

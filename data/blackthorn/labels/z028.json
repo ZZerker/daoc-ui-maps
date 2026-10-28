@@ -1,0 +1,41 @@
+{
+  "zone": "028",
+  "labels": [
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.44097900390625,
+      "y": 0.4119873046875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Hafheim",
+      "x": 0.4483795166015625,
+      "y": 0.4042816162109375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Halgost",
+      "x": 0.8615875244140625,
+      "y": 0.4648590087890625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "town",
+      "text": "Ulvastad",
+      "x": 0.1144256591796875,
+      "y": 0.2251129150390625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

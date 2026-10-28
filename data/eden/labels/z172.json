@@ -1,0 +1,131 @@
+{
+  "zone": "172",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Emain Macha",
+      "x": 0.5,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Cruachan Gorge",
+      "x": 0,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Mount Collory",
+      "x": 0.5,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "keep",
+      "text": "Dun nGed",
+      "x": 0.2452239990234375,
+      "y": 0.295989990234375,
+      "priority": 1,
+      "realm": 3,
+      "edge": null
+    },
+    {
+      "kind": "keep",
+      "text": "Dun da Behnn",
+      "x": 0.7828521728515625,
+      "y": 0.599029541015625,
+      "priority": 1,
+      "realm": 3,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Dun nGed GT",
+      "x": 0.260894775390625,
+      "y": 0.2241363525390625,
+      "priority": 2,
+      "realm": 3,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Dun da Behnn WT",
+      "x": 0.4874267578125,
+      "y": 0.539459228515625,
+      "priority": 2,
+      "realm": 3,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Dun nGed WT",
+      "x": 0.106170654296875,
+      "y": 0.0407562255859375,
+      "priority": 2,
+      "realm": 3,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Dun da Behnn GT",
+      "x": 0.8460540771484375,
+      "y": 0.5396881103515625,
+      "priority": 2,
+      "realm": 3,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Dun Ailinne WT",
+      "x": 0.02288818359375,
+      "y": 0.871185302734375,
+      "priority": 2,
+      "realm": 3,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Dun Bolg OP",
+      "x": 0.6693267822265625,
+      "y": 0.1199951171875,
+      "priority": 2,
+      "realm": 3,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Dun da Behnn OP",
+      "x": 0.7247314453125,
+      "y": 0.815277099609375,
+      "priority": 2,
+      "realm": 3,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Passage of Conflict",
+      "x": 0.225341796875,
+      "y": 0.5538330078125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Evern",
+      "x": 0.37994384765625,
+      "y": 0.970458984375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

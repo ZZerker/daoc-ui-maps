@@ -1,0 +1,131 @@
+{
+  "zone": "171",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Irish Sea",
+      "x": 1,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Breifine",
+      "x": 0.5,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "keep",
+      "text": "Dun Crauchon",
+      "x": 0.7069549560546875,
+      "y": 0.1480865478515625,
+      "priority": 1,
+      "realm": 3,
+      "edge": null
+    },
+    {
+      "kind": "keep",
+      "text": "Dun Crimthain",
+      "x": 0.08856201171875,
+      "y": 0.240936279296875,
+      "priority": 1,
+      "realm": 3,
+      "edge": null
+    },
+    {
+      "kind": "keep",
+      "text": "Dun Bolg",
+      "x": 0.7589874267578125,
+      "y": 0.792449951171875,
+      "priority": 1,
+      "realm": 3,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Dun Crauchon GT",
+      "x": 0.7796478271484375,
+      "y": 0.1123809814453125,
+      "priority": 2,
+      "realm": 3,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Dun Crimthain WT",
+      "x": 0.16839599609375,
+      "y": 0.2097015380859375,
+      "priority": 2,
+      "realm": 3,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Dun Bolg WT",
+      "x": 0.4944610595703125,
+      "y": 0.8016357421875,
+      "priority": 2,
+      "realm": 3,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Dun Crimthain GT",
+      "x": 0.34759521484375,
+      "y": 0.298675537109375,
+      "priority": 2,
+      "realm": 3,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Dun Bolg GT",
+      "x": 0.6998748779296875,
+      "y": 0.8669891357421875,
+      "priority": 2,
+      "realm": 3,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Dun Crimthain OP",
+      "x": 0.1494140625,
+      "y": 0.54815673828125,
+      "priority": 2,
+      "realm": 3,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Dun Crauchon SP",
+      "x": 0.4652099609375,
+      "y": 0.135406494140625,
+      "priority": 2,
+      "realm": 3,
+      "edge": null
+    },
+    {
+      "kind": "place",
+      "text": "Moydruim Castle",
+      "x": 0.6561279296875,
+      "y": 0.6103515625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Sarnvasath",
+      "x": 0.09002685546875,
+      "y": 0.3875732421875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

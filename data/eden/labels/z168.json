@@ -1,0 +1,113 @@
+{
+  "zone": "168",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Odin\u0027s Gate",
+      "x": 0,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "west"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Yggdra Forest",
+      "x": 1,
+      "y": 0.5,
+      "priority": 1,
+      "realm": 0,
+      "edge": "east"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Uppland",
+      "x": 0.5,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "keep",
+      "text": "Hlidskialf Faste",
+      "x": 0.7776641845703125,
+      "y": 0.7777099609375,
+      "priority": 1,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "keep",
+      "text": "Blendrake Faste",
+      "x": 0.1710052490234375,
+      "y": 0.738037109375,
+      "priority": 1,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "keep",
+      "text": "Glenlock Faste",
+      "x": 0.2998046875,
+      "y": 0.2373046875,
+      "priority": 1,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Hlidskialf Faste GT",
+      "x": 0.8380279541015625,
+      "y": 0.840911865234375,
+      "priority": 2,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Glenlock Faste GT",
+      "x": 0.285003662109375,
+      "y": 0.1589202880859375,
+      "priority": 2,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Hlidskialf Faste WT",
+      "x": 0.5233154296875,
+      "y": 0.826934814453125,
+      "priority": 2,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Blendrake Faste GT",
+      "x": 0.2068634033203125,
+      "y": 0.8049468994140625,
+      "priority": 2,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Glenlock Faste WT",
+      "x": 0.3982391357421875,
+      "y": 0.4309539794921875,
+      "priority": 2,
+      "realm": 2,
+      "edge": null
+    },
+    {
+      "kind": "entrance",
+      "text": "Passage of Conflict",
+      "x": 0.1714324951171875,
+      "y": 0.4315643310546875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

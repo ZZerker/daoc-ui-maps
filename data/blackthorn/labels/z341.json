@@ -1,0 +1,77 @@
+{
+  "zone": "341",
+  "labels": [
+    {
+      "kind": "boss",
+      "text": "Glamaim",
+      "x": 0.9573436865611044,
+      "y": 0.26289078359723916,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Grimeil",
+      "x": 0.05397381242387333,
+      "y": 0.4709703613479497,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Legion",
+      "x": 0.22145249695493302,
+      "y": 0.07511165245635404,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Malairt",
+      "x": 0.37116829070239543,
+      "y": 0.2857287860332927,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Marquis Grigori",
+      "x": 0.5767103126268778,
+      "y": 0.42021924482338613,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Marquis Halphas",
+      "x": 0.39400629313844904,
+      "y": 0.42021924482338613,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Teugmhail",
+      "x": 0.7543392204628502,
+      "y": 0.9454933008526187,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "boss",
+      "text": "Uamhas",
+      "x": 0.3001167275680065,
+      "y": 0.9480308566788469,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

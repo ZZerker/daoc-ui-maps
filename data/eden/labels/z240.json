@@ -1,0 +1,14 @@
+{
+  "zone": "240",
+  "labels": [
+    {
+      "kind": "keep",
+      "text": "Caer Wilton",
+      "x": 0.447509765625,
+      "y": 0.503448486328125,
+      "priority": 1,
+      "realm": 2,
+      "edge": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "zone": "175",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Pennine Mountains",
+      "x": 0.5,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "keep",
+      "text": "Caer Hurbury",
+      "x": 0.650482177734375,
+      "y": 0.42242431640625,
+      "priority": 1,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Caer Hurbury GT",
+      "x": 0.5721282958984375,
+      "y": 0.4044036865234375,
+      "priority": 2,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "tower",
+      "text": "Caer Hurbury WT",
+      "x": 0.6215057373046875,
+      "y": 0.0881805419921875,
+      "priority": 2,
+      "realm": 1,
+      "edge": null
+    },
+    {
+      "kind": "place",
+      "text": "Lucan\u0027s Summit",
+      "x": 0.4119873046875,
+      "y": 0.0762939453125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "portal",
+      "text": "Snowdonia Fortress",
+      "x": 0.9098052978515625,
+      "y": 0.86651611328125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.146484375,
+      "y": 0.73394775390625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.88958740234375,
+      "y": 0.8758544921875,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

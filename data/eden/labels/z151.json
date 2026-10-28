@@ -1,0 +1,32 @@
+{
+  "zone": "151",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Gripklosa Mountains",
+      "x": 0.75,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Munin Sound",
+      "x": 0.875,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "porter",
+      "text": "Channeler",
+      "x": 0.73394775390625,
+      "y": 0.68206787109375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "zone": "075",
+  "labels": [
+    {
+      "kind": "neighbor",
+      "text": "Mesothalassa",
+      "x": 0.5,
+      "y": 1,
+      "priority": 1,
+      "realm": 0,
+      "edge": "south"
+    },
+    {
+      "kind": "neighbor",
+      "text": "Stygian Delta",
+      "x": 0.25,
+      "y": 0,
+      "priority": 1,
+      "realm": 0,
+      "edge": "north"
+    },
+    {
+      "kind": "boss",
+      "text": "Runihura",
+      "x": 0.12054443359375,
+      "y": 0.10986328125,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Crocodile Tear Ring",
+      "x": 0.8026123046875,
+      "y": 0.40435791015625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Crown of Zahur",
+      "x": 0.45013427734375,
+      "y": 0.299072265625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Eerie Darkness Stone",
+      "x": 0.50201416015625,
+      "y": 0.79193115234375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Scepter of the Meritorious",
+      "x": 0.74615478515625,
+      "y": 0.1708984375,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    },
+    {
+      "kind": "artifact",
+      "text": "Traldor\u0027s Oracle",
+      "x": 0.1953125,
+      "y": 0.84381103515625,
+      "priority": 1,
+      "realm": 0,
+      "edge": null
+    }
+  ]
+}
